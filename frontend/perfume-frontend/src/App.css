@@ -5,6 +5,21 @@
   text-align: center;
 }
 
+/* Global CSS File (e.g., App.css or global.css) */
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+.container {
+  width: 100%; /* Ensures it stretches across the screen */
+  max-width: 1200px; /* Optional to limit the maximum size */
+  margin: 0 auto; /* Centers the content horizontally */
+  padding: 0 15px; /* Adds padding on smaller screens */
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;

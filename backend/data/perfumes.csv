@@ -1,0 +1,1001 @@
+name,brand,price,notes,scent_profile,longevity,sillage,gender_preference,occasion
+Calvin Klein Leather 50,Versace,247.03,"oriental, woody",niche,8 hours,strong,female,special
+Lancôme Citrus 13,Chanel,142.46,leather,luxury,8 hours,light,female,casual
+Givenchy Fresh 47,Versace,173.85,gourmand,high-end,6 hours,strong,female,casual
+Bvlgari Fruity 29,Chanel,272.05,woody,high-end,4 hours,strong,male,evening
+Bvlgari Oriental 19,Hugo Boss,247.72,"fresh, amber",luxury,12+ hours,light,unisex,formal
+Dior Oriental 23,Montblanc,160.1,amber,niche,4 hours,strong,male,formal
+Tom Ford Oriental 30,Versace,156.87,gourmand,high-end,4 hours,strong,female,daytime
+Creed Oriental 48,Chanel,133.44,fruity,high-end,4 hours,strong,unisex,daytime
+Armani Fruity 46,Chanel,287.57,"aquatic, gourmand, floral",high-end,12+ hours,moderate,unisex,daytime
+Burberry Fresh 5,Givenchy,264.35,"floral, woody, fresh",basic,4 hours,strong,unisex,evening
+Gucci Woody 37,Creed,272.24,"citrus, floral",luxury,6 hours,strong,unisex,evening
+Calvin Klein Fruity 38,Creed,154.28,"spicy, aquatic, amber",niche,6 hours,strong,female,daytime
+Yves Saint Laurent Fruity 27,Yves Saint Laurent,242.19,amber,basic,12+ hours,light,unisex,formal
+Armani Amber 49,Calvin Klein,190.84,spicy,niche,4 hours,strong,female,special
+Burberry Leather 44,Burberry,125.35,citrus,niche,8 hours,moderate,male,casual
+Burberry Fruity 27,Cartier,101.96,amber,high-end,12+ hours,light,male,daytime
+Montblanc Oriental 8,Cartier,165.64,"gourmand, fresh",niche,12+ hours,light,unisex,casual
+Cartier Spicy 40,Tom Ford,70.62,"oriental, floral",high-end,10 hours,light,female,casual
+Prada Oriental 6,Bvlgari,253.07,oriental,high-end,12+ hours,moderate,male,evening
+Chanel Spicy 37,Jo Malone,267.32,spicy,basic,12+ hours,light,female,special
+Bvlgari Fresh 38,Lancôme,82.63,"aquatic, oriental, leather",basic,12+ hours,strong,male,formal
+Cartier Gourmand 30,Versace,162.76,"aquatic, citrus, floral",luxury,12+ hours,light,female,evening
+Tom Ford Spicy 6,Cartier,299.38,"floral, fruity, oriental",basic,12+ hours,light,female,evening
+Armani Amber 45,Givenchy,158.16,gourmand,luxury,8 hours,strong,male,casual
+Dolce & Gabbana Fresh 18,Gucci,223.31,fresh,basic,10 hours,light,unisex,daytime
+Gucci Spicy 2,Givenchy,209.76,"leather, amber, fruity",niche,6 hours,moderate,male,special
+Gucci Oriental 19,Burberry,111.74,leather,luxury,10 hours,moderate,male,evening
+Gucci Floral 28,Montblanc,107.52,"leather, amber, gourmand",luxury,8 hours,strong,unisex,daytime
+Burberry Floral 39,Hermes,73.36,"woody, fruity, spicy",high-end,6 hours,strong,unisex,casual
+Prada Floral 6,Prada,195.33,"leather, oriental",niche,12+ hours,strong,female,evening
+Lancôme Leather 42,Bvlgari,135.41,"fresh, woody",high-end,8 hours,moderate,male,special
+Burberry Leather 29,Yves Saint Laurent,233.62,amber,niche,10 hours,strong,female,special
+Calvin Klein Fresh 50,Chanel,214.52,"gourmand, fruity",niche,4 hours,strong,unisex,casual
+Lancôme Fresh 23,Tom Ford,248.17,fruity,niche,6 hours,strong,female,casual
+Yves Saint Laurent Leather 38,Montblanc,262.64,"citrus, gourmand",niche,10 hours,light,unisex,casual
+Dolce & Gabbana Fresh 3,Hugo Boss,134.4,aquatic,niche,8 hours,moderate,female,special
+Lancôme Amber 50,Creed,165.96,"oriental, woody, fresh",basic,12+ hours,light,male,daytime
+Tom Ford Spicy 31,Prada,84.29,"oriental, leather, fruity",luxury,12+ hours,strong,female,special
+Armani Fresh 43,Montblanc,136.01,fresh,niche,12+ hours,light,unisex,casual
+Yves Saint Laurent Citrus 23,Prada,153.45,"citrus, leather, fresh",niche,10 hours,light,unisex,casual
+Montblanc Spicy 4,Lancôme,185.52,gourmand,luxury,6 hours,light,unisex,special
+Givenchy Gourmand 25,Dolce & Gabbana,128.86,fruity,luxury,10 hours,light,unisex,daytime
+Creed Spicy 34,Montblanc,252.06,"spicy, gourmand, floral",luxury,12+ hours,strong,female,evening
+Dior Aquatic 31,Gucci,120.13,"leather, gourmand",niche,8 hours,light,male,evening
+Hugo Boss Fruity 27,Burberry,190.54,"aquatic, fruity",high-end,12+ hours,moderate,unisex,evening
+Prada Amber 14,Burberry,148.65,"amber, woody, aquatic",luxury,8 hours,strong,unisex,formal
+Hugo Boss Citrus 23,Tom Ford,240.15,"fresh, amber",luxury,4 hours,moderate,male,daytime
+Chanel Floral 34,Prada,65.02,"fruity, gourmand, floral",luxury,12+ hours,moderate,unisex,formal
+Lancôme Fresh 34,Gucci,123.99,"leather, citrus",luxury,10 hours,light,male,formal
+Chanel Oriental 21,Burberry,132.49,"fruity, woody",luxury,10 hours,moderate,female,formal
+Dior Fruity 45,Armani,186.32,"citrus, leather",niche,6 hours,light,unisex,evening
+Chanel Fresh 42,Hermes,101.0,"floral, leather",niche,12+ hours,light,female,special
+Burberry Gourmand 50,Jo Malone,244.97,"oriental, floral, woody",luxury,12+ hours,light,female,daytime
+Chanel Leather 7,Creed,259.38,"floral, oriental",niche,12+ hours,moderate,male,casual
+Dior Leather 47,Jo Malone,272.27,"floral, fruity, gourmand",luxury,10 hours,light,unisex,evening
+Cartier Woody 46,Chanel,99.35,"citrus, fresh, amber",niche,10 hours,light,unisex,formal
+Givenchy Leather 19,Dolce & Gabbana,293.12,fresh,luxury,8 hours,moderate,unisex,casual
+Prada Fresh 25,Creed,52.57,"gourmand, fruity",basic,6 hours,strong,female,evening
+Gucci Leather 47,Prada,204.1,"spicy, floral",niche,4 hours,light,male,casual
+Dior Woody 31,Dolce & Gabbana,284.34,"oriental, woody, citrus",luxury,8 hours,moderate,male,daytime
+Yves Saint Laurent Aquatic 49,Versace,70.21,"citrus, oriental",luxury,6 hours,strong,female,evening
+Creed Aquatic 44,Tom Ford,205.61,aquatic,basic,6 hours,moderate,female,casual
+Yves Saint Laurent Citrus 37,Versace,253.99,"gourmand, woody",luxury,10 hours,strong,unisex,formal
+Tom Ford Floral 33,Hermes,90.59,"leather, aquatic, spicy",high-end,12+ hours,strong,female,special
+Yves Saint Laurent Amber 5,Creed,153.84,"amber, floral, spicy",basic,6 hours,light,male,special
+Chanel Leather 28,Cartier,259.09,amber,basic,12+ hours,light,unisex,evening
+Armani Aquatic 36,Chanel,79.49,oriental,basic,4 hours,strong,unisex,evening
+Chanel Aquatic 24,Dolce & Gabbana,233.53,"aquatic, spicy",basic,6 hours,strong,unisex,daytime
+Yves Saint Laurent Gourmand 18,Montblanc,167.39,"woody, fruity, aquatic",high-end,4 hours,strong,male,casual
+Chanel Spicy 35,Tom Ford,266.65,fruity,basic,10 hours,light,male,formal
+Bvlgari Gourmand 23,Gucci,171.05,spicy,luxury,6 hours,light,female,daytime
+Givenchy Aquatic 17,Calvin Klein,166.73,amber,luxury,6 hours,moderate,male,formal
+Burberry Spicy 21,Dior,204.1,"aquatic, fresh",basic,6 hours,light,unisex,casual
+Versace Fresh 42,Versace,234.07,"oriental, floral",high-end,10 hours,strong,unisex,casual
+Bvlgari Fruity 31,Burberry,297.26,"woody, fruity",high-end,8 hours,light,male,evening
+Givenchy Fresh 19,Prada,261.61,"fresh, leather",basic,12+ hours,light,female,formal
+Givenchy Floral 26,Givenchy,57.46,"oriental, fresh, fruity",luxury,4 hours,light,female,evening
+Montblanc Aquatic 13,Gucci,147.37,fresh,luxury,6 hours,moderate,male,special
+Cartier Amber 44,Armani,203.71,"fruity, fresh",basic,8 hours,light,female,daytime
+Creed Citrus 18,Jo Malone,193.19,"leather, woody, aquatic",niche,10 hours,moderate,unisex,formal
+Dolce & Gabbana Fresh 21,Givenchy,138.56,"fruity, floral, gourmand",luxury,6 hours,light,unisex,special
+Chanel Amber 30,Jo Malone,252.8,fresh,luxury,6 hours,strong,male,daytime
+Gucci Leather 18,Versace,166.67,"oriental, aquatic",basic,10 hours,light,unisex,formal
+Chanel Amber 19,Montblanc,103.03,"leather, floral, gourmand",basic,12+ hours,moderate,male,formal
+Lancôme Citrus 49,Lancôme,284.04,"leather, amber",niche,4 hours,moderate,male,formal
+Hermes Floral 9,Dolce & Gabbana,241.68,"gourmand, amber, spicy",basic,8 hours,light,male,formal
+Montblanc Spicy 23,Calvin Klein,145.78,"fresh, fruity",basic,4 hours,light,male,evening
+Prada Leather 16,Tom Ford,71.32,leather,high-end,4 hours,strong,unisex,special
+Hugo Boss Woody 19,Jo Malone,79.76,"oriental, aquatic",luxury,4 hours,light,female,daytime
+Hermes Amber 5,Armani,296.82,"leather, woody, fruity",high-end,12+ hours,moderate,female,evening
+Montblanc Spicy 49,Dolce & Gabbana,127.04,"fresh, leather, spicy",high-end,4 hours,strong,male,evening
+Armani Leather 42,Cartier,77.43,leather,basic,12+ hours,moderate,unisex,special
+Givenchy Woody 37,Hermes,198.05,woody,niche,8 hours,strong,female,special
+Tom Ford Woody 34,Prada,187.45,"leather, spicy",luxury,10 hours,moderate,male,evening
+Armani Citrus 38,Montblanc,258.58,"floral, leather, fruity",high-end,12+ hours,moderate,female,casual
+Hugo Boss Citrus 14,Calvin Klein,69.16,woody,basic,6 hours,light,unisex,casual
+Creed Amber 45,Jo Malone,59.03,floral,niche,12+ hours,strong,unisex,formal
+Hermes Citrus 49,Armani,81.38,"citrus, aquatic, spicy",basic,8 hours,strong,unisex,daytime
+Cartier Leather 8,Cartier,237.23,gourmand,basic,8 hours,strong,male,daytime
+Versace Oriental 27,Hermes,62.02,"spicy, woody",high-end,12+ hours,strong,male,formal
+Creed Amber 44,Burberry,149.53,amber,high-end,12+ hours,moderate,unisex,casual
+Bvlgari Floral 20,Dior,257.57,"fruity, oriental, aquatic",niche,10 hours,moderate,male,formal
+Creed Aquatic 45,Versace,209.95,"amber, fruity",niche,10 hours,strong,male,formal
+Cartier Fruity 23,Dior,111.37,"fruity, gourmand",high-end,4 hours,light,male,daytime
+Versace Aquatic 11,Hugo Boss,63.84,"gourmand, woody",niche,6 hours,moderate,male,daytime
+Armani Woody 13,Hermes,222.06,fruity,niche,6 hours,light,female,casual
+Burberry Woody 23,Tom Ford,225.01,fruity,niche,8 hours,strong,unisex,formal
+Lancôme Leather 28,Tom Ford,118.11,citrus,luxury,6 hours,light,unisex,evening
+Armani Amber 35,Jo Malone,75.84,"fresh, amber",luxury,4 hours,moderate,male,formal
+Burberry Citrus 4,Gucci,140.24,"leather, fresh",luxury,10 hours,light,male,formal
+Prada Gourmand 43,Prada,135.6,fruity,basic,4 hours,moderate,male,daytime
+Chanel Gourmand 36,Tom Ford,96.08,"woody, citrus, amber",basic,12+ hours,moderate,female,evening
+Calvin Klein Spicy 50,Bvlgari,214.62,"fruity, leather",luxury,10 hours,strong,female,formal
+Givenchy Spicy 35,Versace,111.37,spicy,niche,12+ hours,strong,female,casual
+Creed Citrus 45,Bvlgari,250.79,"fresh, leather, citrus",luxury,12+ hours,strong,female,casual
+Armani Amber 41,Versace,177.56,"fruity, fresh",basic,6 hours,moderate,unisex,evening
+Montblanc Aquatic 10,Chanel,98.87,"floral, aquatic, gourmand",high-end,8 hours,strong,male,formal
+Dior Gourmand 33,Hugo Boss,81.57,"leather, woody, oriental",high-end,10 hours,moderate,male,special
+Givenchy Aquatic 33,Versace,125.07,"spicy, citrus",high-end,8 hours,light,unisex,special
+Hugo Boss Aquatic 24,Chanel,107.91,citrus,niche,6 hours,light,male,evening
+Dior Woody 25,Tom Ford,119.98,"fresh, fruity",luxury,10 hours,moderate,unisex,daytime
+Hugo Boss Oriental 4,Versace,179.65,"amber, fresh",basic,10 hours,strong,male,formal
+Cartier Gourmand 50,Armani,142.69,fruity,high-end,4 hours,moderate,female,daytime
+Givenchy Fresh 50,Burberry,103.1,oriental,high-end,12+ hours,light,male,daytime
+Calvin Klein Fruity 33,Chanel,130.06,gourmand,luxury,6 hours,moderate,female,formal
+Cartier Spicy 20,Montblanc,269.56,"citrus, fruity",niche,8 hours,strong,male,special
+Jo Malone Aquatic 36,Montblanc,100.41,"leather, amber, citrus",niche,10 hours,light,female,special
+Montblanc Gourmand 24,Versace,52.96,"leather, spicy, aquatic",niche,12+ hours,light,male,evening
+Burberry Leather 40,Jo Malone,259.44,citrus,luxury,4 hours,light,male,formal
+Yves Saint Laurent Gourmand 6,Cartier,158.09,leather,niche,6 hours,moderate,unisex,evening
+Dolce & Gabbana Spicy 45,Burberry,150.2,"aquatic, fresh",basic,10 hours,strong,unisex,special
+Montblanc Floral 36,Yves Saint Laurent,187.81,"fresh, amber",niche,4 hours,light,male,special
+Tom Ford Spicy 3,Tom Ford,108.77,"citrus, amber",high-end,4 hours,moderate,unisex,evening
+Hermes Fresh 48,Prada,76.35,leather,high-end,4 hours,strong,male,formal
+Burberry Citrus 18,Tom Ford,275.69,"fresh, spicy",luxury,4 hours,light,unisex,evening
+Bvlgari Amber 8,Lancôme,74.57,citrus,luxury,8 hours,strong,unisex,daytime
+Givenchy Amber 34,Bvlgari,248.61,"spicy, gourmand, aquatic",luxury,10 hours,light,unisex,evening
+Bvlgari Woody 44,Tom Ford,50.43,"aquatic, fresh",basic,6 hours,strong,male,evening
+Yves Saint Laurent Aquatic 47,Versace,69.63,"gourmand, oriental",niche,8 hours,light,unisex,evening
+Lancôme Citrus 50,Dolce & Gabbana,161.18,"gourmand, aquatic, fresh",niche,8 hours,strong,female,special
+Givenchy Amber 34,Dior,101.2,fruity,luxury,4 hours,strong,male,formal
+Versace Gourmand 7,Chanel,129.36,gourmand,high-end,10 hours,light,female,casual
+Cartier Spicy 7,Versace,84.45,floral,niche,8 hours,light,unisex,daytime
+Dior Fruity 4,Montblanc,140.32,"fruity, fresh, gourmand",basic,8 hours,strong,unisex,daytime
+Creed Fresh 2,Armani,200.84,"fruity, fresh, oriental",niche,6 hours,moderate,female,formal
+Yves Saint Laurent Oriental 22,Hermes,120.91,fresh,niche,6 hours,strong,female,casual
+Versace Fresh 20,Dolce & Gabbana,161.18,fruity,high-end,8 hours,strong,male,daytime
+Montblanc Woody 46,Cartier,127.03,"spicy, leather",niche,4 hours,moderate,unisex,casual
+Yves Saint Laurent Gourmand 31,Versace,242.78,"spicy, gourmand, floral",high-end,12+ hours,light,unisex,casual
+Versace Woody 34,Hugo Boss,104.27,leather,basic,6 hours,strong,unisex,daytime
+Calvin Klein Spicy 32,Prada,273.66,"gourmand, citrus, floral",basic,4 hours,moderate,female,evening
+Burberry Aquatic 30,Jo Malone,108.16,citrus,luxury,6 hours,moderate,female,special
+Lancôme Citrus 34,Hermes,176.18,oriental,luxury,12+ hours,strong,unisex,evening
+Montblanc Fresh 8,Burberry,69.98,woody,niche,8 hours,light,female,casual
+Creed Fruity 49,Versace,250.89,amber,high-end,8 hours,light,unisex,special
+Prada Spicy 21,Gucci,224.01,"woody, oriental",basic,8 hours,light,unisex,formal
+Burberry Woody 50,Givenchy,163.59,"fruity, oriental",luxury,6 hours,light,female,daytime
+Tom Ford Amber 49,Tom Ford,235.0,"aquatic, citrus, woody",niche,4 hours,strong,male,special
+Yves Saint Laurent Amber 17,Gucci,292.85,"leather, gourmand",luxury,12+ hours,light,unisex,special
+Creed Floral 45,Lancôme,162.16,citrus,luxury,8 hours,moderate,female,evening
+Chanel Amber 1,Givenchy,180.53,"gourmand, amber, woody",high-end,8 hours,moderate,male,evening
+Prada Floral 44,Dior,205.49,"amber, fruity",luxury,8 hours,strong,male,evening
+Hugo Boss Oriental 17,Montblanc,270.64,"gourmand, citrus",niche,8 hours,strong,male,formal
+Burberry Floral 26,Burberry,230.5,"amber, fresh, oriental",niche,6 hours,strong,unisex,formal
+Burberry Fruity 39,Montblanc,189.67,"floral, leather",luxury,4 hours,strong,female,special
+Montblanc Leather 48,Hermes,261.82,woody,luxury,6 hours,light,female,daytime
+Lancôme Woody 32,Armani,127.27,"citrus, spicy",luxury,6 hours,moderate,male,evening
+Hermes Leather 44,Armani,284.36,gourmand,luxury,8 hours,strong,male,daytime
+Dolce & Gabbana Amber 39,Hugo Boss,131.81,leather,high-end,12+ hours,moderate,male,special
+Gucci Gourmand 47,Yves Saint Laurent,287.18,"amber, spicy",basic,4 hours,strong,male,evening
+Prada Fruity 29,Gucci,115.76,"aquatic, oriental, floral",high-end,6 hours,moderate,male,evening
+Hermes Gourmand 41,Burberry,70.95,oriental,basic,12+ hours,light,male,evening
+Prada Leather 19,Montblanc,65.02,"amber, fruity",luxury,8 hours,strong,female,casual
+Calvin Klein Citrus 35,Givenchy,106.76,fresh,luxury,12+ hours,light,male,evening
+Tom Ford Leather 35,Dior,151.21,spicy,high-end,8 hours,light,female,casual
+Calvin Klein Fresh 45,Dolce & Gabbana,164.35,"oriental, gourmand, aquatic",niche,8 hours,strong,female,formal
+Creed Fruity 26,Lancôme,162.94,"amber, floral, aquatic",high-end,4 hours,light,male,daytime
+Tom Ford Amber 32,Cartier,211.8,aquatic,luxury,6 hours,strong,unisex,formal
+Prada Gourmand 24,Prada,124.67,"citrus, floral, leather",basic,4 hours,moderate,unisex,evening
+Montblanc Fresh 4,Armani,196.63,"fresh, citrus, oriental",niche,12+ hours,light,unisex,casual
+Calvin Klein Woody 16,Gucci,80.65,"aquatic, woody",luxury,12+ hours,light,male,casual
+Dior Oriental 46,Dior,274.12,aquatic,high-end,6 hours,light,male,evening
+Armani Fresh 44,Cartier,259.33,amber,high-end,4 hours,light,male,formal
+Prada Spicy 39,Hermes,201.4,"gourmand, citrus, spicy",niche,4 hours,light,unisex,daytime
+Montblanc Floral 28,Dior,175.94,"woody, gourmand",high-end,4 hours,moderate,male,casual
+Prada Woody 28,Jo Malone,250.88,"aquatic, fresh",luxury,6 hours,strong,unisex,casual
+Cartier Oriental 32,Cartier,78.45,"fruity, oriental, woody",luxury,8 hours,light,unisex,evening
+Armani Gourmand 46,Tom Ford,262.24,"spicy, leather",high-end,12+ hours,strong,female,formal
+Givenchy Fresh 14,Versace,259.96,"oriental, leather",luxury,6 hours,light,male,special
+Yves Saint Laurent Citrus 37,Hugo Boss,241.63,"leather, aquatic",luxury,8 hours,moderate,female,daytime
+Hugo Boss Amber 26,Dolce & Gabbana,137.11,"oriental, amber",niche,12+ hours,moderate,unisex,daytime
+Bvlgari Leather 8,Versace,192.13,citrus,niche,8 hours,light,unisex,evening
+Calvin Klein Floral 18,Givenchy,291.64,"aquatic, amber, fresh",luxury,10 hours,moderate,unisex,evening
+Creed Fresh 41,Hugo Boss,104.48,"citrus, fresh",luxury,4 hours,light,female,special
+Yves Saint Laurent Citrus 1,Yves Saint Laurent,76.82,leather,niche,4 hours,moderate,female,special
+Hugo Boss Amber 7,Bvlgari,204.68,"oriental, spicy, woody",niche,6 hours,light,male,formal
+Montblanc Fresh 33,Hugo Boss,207.58,"citrus, leather",basic,10 hours,strong,female,daytime
+Givenchy Citrus 2,Yves Saint Laurent,221.2,"oriental, floral, aquatic",high-end,12+ hours,moderate,male,daytime
+Burberry Aquatic 32,Hugo Boss,141.84,oriental,high-end,10 hours,moderate,female,casual
+Jo Malone Aquatic 50,Chanel,288.52,"aquatic, citrus, fresh",niche,10 hours,strong,male,casual
+Calvin Klein Citrus 33,Hermes,193.33,"fruity, amber, gourmand",basic,4 hours,light,female,special
+Tom Ford Amber 48,Cartier,129.21,gourmand,basic,10 hours,strong,female,evening
+Creed Citrus 33,Versace,181.36,"fresh, fruity",niche,10 hours,light,female,special
+Hugo Boss Leather 13,Cartier,210.29,"floral, leather",luxury,8 hours,strong,male,daytime
+Lancôme Floral 47,Montblanc,287.32,fresh,high-end,4 hours,light,unisex,evening
+Yves Saint Laurent Woody 45,Calvin Klein,248.0,amber,basic,4 hours,moderate,unisex,casual
+Montblanc Amber 43,Cartier,268.11,"woody, spicy, leather",high-end,6 hours,moderate,male,daytime
+Armani Amber 27,Versace,118.88,"fresh, citrus, oriental",basic,6 hours,moderate,female,special
+Calvin Klein Fresh 39,Cartier,162.28,oriental,luxury,4 hours,moderate,female,formal
+Dolce & Gabbana Fruity 40,Creed,288.66,"spicy, woody, aquatic",high-end,12+ hours,strong,unisex,special
+Cartier Floral 23,Burberry,283.8,"woody, fresh, amber",high-end,10 hours,moderate,male,formal
+Lancôme Oriental 3,Cartier,190.55,leather,niche,10 hours,light,male,daytime
+Dior Spicy 5,Yves Saint Laurent,69.78,floral,high-end,12+ hours,moderate,male,evening
+Dior Leather 9,Burberry,280.06,"fruity, floral",basic,12+ hours,strong,female,daytime
+Jo Malone Gourmand 15,Hugo Boss,129.68,gourmand,niche,12+ hours,moderate,male,evening
+Montblanc Aquatic 37,Hugo Boss,209.19,"fresh, amber, leather",high-end,10 hours,moderate,female,daytime
+Creed Oriental 31,Burberry,162.93,"amber, aquatic, gourmand",basic,12+ hours,light,female,evening
+Versace Spicy 10,Lancôme,255.03,"amber, citrus, gourmand",luxury,4 hours,moderate,female,evening
+Tom Ford Leather 34,Montblanc,139.47,"fresh, leather, oriental",niche,8 hours,strong,female,evening
+Jo Malone Amber 25,Cartier,68.76,"gourmand, leather, citrus",high-end,12+ hours,light,unisex,daytime
+Dior Woody 48,Chanel,254.69,"fruity, aquatic, amber",basic,4 hours,light,unisex,special
+Givenchy Leather 46,Burberry,277.54,leather,high-end,12+ hours,strong,unisex,daytime
+Armani Fruity 20,Chanel,172.42,"fresh, gourmand",high-end,6 hours,strong,unisex,casual
+Prada Fresh 31,Lancôme,117.78,"aquatic, woody, fruity",high-end,12+ hours,strong,female,evening
+Creed Aquatic 11,Cartier,154.32,"citrus, aquatic",basic,6 hours,light,female,casual
+Creed Fruity 39,Montblanc,277.25,"spicy, citrus, fruity",basic,4 hours,strong,male,special
+Dior Oriental 17,Burberry,118.44,citrus,basic,4 hours,moderate,male,daytime
+Burberry Fresh 21,Hugo Boss,166.81,woody,luxury,6 hours,moderate,female,daytime
+Bvlgari Floral 11,Dolce & Gabbana,107.29,spicy,basic,6 hours,moderate,male,daytime
+Chanel Gourmand 22,Hermes,173.8,"leather, spicy",basic,4 hours,light,female,formal
+Versace Spicy 33,Versace,169.42,citrus,luxury,10 hours,light,male,special
+Chanel Woody 7,Givenchy,51.68,"aquatic, oriental, citrus",basic,6 hours,strong,male,special
+Montblanc Citrus 40,Armani,173.45,gourmand,niche,10 hours,strong,male,formal
+Gucci Spicy 26,Versace,225.08,"amber, woody, spicy",basic,8 hours,moderate,unisex,special
+Creed Fruity 45,Lancôme,226.76,"leather, woody, citrus",niche,4 hours,moderate,unisex,evening
+Givenchy Fresh 41,Burberry,287.79,amber,high-end,8 hours,strong,male,evening
+Versace Gourmand 41,Dolce & Gabbana,287.11,"fresh, aquatic",high-end,8 hours,strong,female,evening
+Dior Fresh 4,Chanel,120.62,"leather, gourmand",niche,8 hours,strong,unisex,daytime
+Prada Citrus 50,Armani,233.03,"aquatic, oriental",basic,6 hours,light,female,evening
+Tom Ford Floral 17,Versace,250.6,"woody, floral",basic,8 hours,moderate,unisex,daytime
+Prada Fresh 39,Creed,223.8,floral,luxury,6 hours,moderate,unisex,evening
+Prada Gourmand 12,Givenchy,97.46,"fresh, amber",high-end,6 hours,strong,female,special
+Chanel Fruity 13,Bvlgari,158.96,"amber, fruity, fresh",high-end,6 hours,light,male,daytime
+Jo Malone Leather 39,Yves Saint Laurent,196.64,fresh,basic,12+ hours,moderate,female,evening
+Burberry Woody 50,Gucci,280.85,aquatic,luxury,6 hours,moderate,unisex,daytime
+Tom Ford Oriental 13,Prada,83.35,fresh,basic,4 hours,light,male,daytime
+Cartier Amber 14,Creed,159.58,"woody, citrus",niche,8 hours,moderate,unisex,casual
+Armani Spicy 18,Cartier,100.5,"floral, oriental, citrus",high-end,6 hours,moderate,male,formal
+Creed Woody 25,Tom Ford,174.24,fresh,niche,8 hours,strong,female,casual
+Dolce & Gabbana Fruity 14,Jo Malone,81.72,fresh,luxury,6 hours,light,male,special
+Gucci Oriental 11,Tom Ford,171.43,"gourmand, spicy",niche,4 hours,moderate,unisex,casual
+Tom Ford Woody 19,Lancôme,133.27,oriental,niche,8 hours,strong,female,evening
+Creed Fruity 37,Jo Malone,133.02,spicy,luxury,10 hours,strong,female,casual
+Versace Fresh 40,Lancôme,144.76,fresh,niche,12+ hours,strong,female,formal
+Gucci Spicy 4,Versace,136.8,floral,niche,8 hours,strong,unisex,daytime
+Hermes Leather 28,Hugo Boss,108.59,fresh,luxury,12+ hours,moderate,unisex,special
+Hugo Boss Amber 37,Lancôme,267.56,"floral, fresh",niche,12+ hours,moderate,unisex,casual
+Prada Amber 33,Cartier,169.01,"woody, floral",basic,6 hours,strong,male,evening
+Armani Fruity 23,Lancôme,188.59,"woody, floral",niche,4 hours,moderate,male,formal
+Dior Floral 3,Hermes,243.88,"amber, aquatic, fresh",basic,8 hours,light,male,formal
+Calvin Klein Fresh 17,Hermes,164.13,spicy,luxury,6 hours,strong,unisex,formal
+Jo Malone Fresh 14,Versace,114.77,gourmand,luxury,4 hours,moderate,male,formal
+Cartier Aquatic 39,Dior,285.77,"floral, oriental, leather",basic,8 hours,moderate,unisex,casual
+Burberry Floral 25,Bvlgari,107.64,leather,basic,8 hours,strong,female,casual
+Jo Malone Oriental 29,Calvin Klein,260.08,floral,high-end,6 hours,strong,female,daytime
+Bvlgari Floral 6,Chanel,66.67,"floral, citrus",high-end,10 hours,moderate,unisex,evening
+Yves Saint Laurent Amber 25,Yves Saint Laurent,116.25,leather,luxury,6 hours,strong,male,special
+Versace Citrus 22,Tom Ford,237.47,"aquatic, oriental",niche,10 hours,moderate,female,evening
+Hermes Aquatic 3,Montblanc,242.54,"spicy, oriental",luxury,10 hours,moderate,female,special
+Bvlgari Leather 34,Montblanc,111.02,"aquatic, citrus, fresh",high-end,4 hours,light,unisex,casual
+Jo Malone Floral 17,Tom Ford,250.92,"fresh, floral, woody",basic,4 hours,moderate,male,special
+Chanel Leather 27,Armani,172.15,"fruity, oriental, spicy",niche,12+ hours,strong,female,special
+Hermes Fresh 48,Burberry,101.63,aquatic,high-end,6 hours,strong,male,daytime
+Burberry Gourmand 20,Gucci,145.96,amber,basic,12+ hours,light,female,daytime
+Hugo Boss Citrus 23,Prada,269.81,"leather, woody",niche,4 hours,strong,female,daytime
+Dior Leather 14,Creed,275.79,aquatic,basic,8 hours,strong,female,formal
+Tom Ford Fruity 20,Jo Malone,67.51,"amber, fruity",luxury,10 hours,moderate,female,formal
+Tom Ford Spicy 45,Dolce & Gabbana,206.23,fresh,niche,6 hours,moderate,unisex,evening
+Bvlgari Floral 15,Dior,292.82,"aquatic, citrus",niche,12+ hours,light,female,formal
+Givenchy Spicy 29,Burberry,197.97,spicy,niche,4 hours,strong,unisex,formal
+Bvlgari Floral 49,Givenchy,62.12,leather,niche,4 hours,light,male,special
+Tom Ford Oriental 3,Armani,254.68,"oriental, floral",luxury,4 hours,light,female,evening
+Givenchy Gourmand 10,Armani,84.58,gourmand,luxury,4 hours,strong,female,evening
+Prada Fresh 28,Prada,269.15,"fresh, amber",high-end,10 hours,strong,unisex,evening
+Tom Ford Aquatic 37,Tom Ford,88.59,"gourmand, floral",basic,6 hours,moderate,male,evening
+Cartier Citrus 23,Jo Malone,96.23,"spicy, amber, citrus",luxury,12+ hours,light,female,daytime
+Versace Aquatic 46,Chanel,263.84,woody,luxury,6 hours,strong,male,casual
+Bvlgari Oriental 48,Dolce & Gabbana,169.43,"spicy, leather, floral",luxury,4 hours,light,female,formal
+Gucci Woody 39,Dolce & Gabbana,252.69,"gourmand, amber, aquatic",high-end,4 hours,light,male,formal
+Givenchy Spicy 39,Prada,200.41,"gourmand, floral",basic,6 hours,strong,male,special
+Gucci Oriental 23,Bvlgari,159.4,"aquatic, oriental, floral",luxury,8 hours,strong,unisex,casual
+Dior Gourmand 19,Montblanc,273.35,"citrus, aquatic, leather",luxury,4 hours,light,male,evening
+Givenchy Citrus 39,Versace,222.21,"gourmand, citrus, spicy",luxury,6 hours,moderate,female,evening
+Hugo Boss Leather 15,Yves Saint Laurent,103.62,"floral, amber, oriental",niche,6 hours,light,unisex,casual
+Jo Malone Aquatic 24,Versace,89.44,"spicy, leather",high-end,10 hours,light,unisex,daytime
+Dolce & Gabbana Fresh 14,Bvlgari,127.94,spicy,luxury,4 hours,strong,female,evening
+Cartier Amber 46,Hugo Boss,144.08,"gourmand, fresh, aquatic",basic,6 hours,moderate,female,evening
+Dolce & Gabbana Fresh 4,Yves Saint Laurent,147.4,"fresh, leather",high-end,12+ hours,strong,female,formal
+Yves Saint Laurent Leather 40,Jo Malone,61.05,"amber, spicy, aquatic",niche,10 hours,strong,male,special
+Gucci Oriental 6,Versace,67.77,aquatic,basic,4 hours,moderate,unisex,casual
+Tom Ford Amber 8,Bvlgari,76.66,amber,high-end,10 hours,light,female,daytime
+Givenchy Fresh 18,Montblanc,83.2,"amber, spicy",high-end,6 hours,light,female,special
+Montblanc Fresh 13,Bvlgari,279.23,"fresh, woody, amber",luxury,8 hours,strong,unisex,formal
+Hermes Oriental 33,Hermes,125.29,amber,high-end,4 hours,strong,unisex,evening
+Versace Spicy 2,Tom Ford,84.29,"fresh, floral, citrus",niche,6 hours,light,female,evening
+Dior Gourmand 47,Gucci,104.7,"woody, spicy",basic,10 hours,strong,unisex,casual
+Gucci Aquatic 22,Montblanc,163.48,gourmand,luxury,12+ hours,moderate,female,daytime
+Chanel Citrus 17,Lancôme,121.42,amber,high-end,4 hours,light,male,special
+Hermes Fresh 37,Dolce & Gabbana,159.92,"fruity, gourmand",basic,12+ hours,strong,male,daytime
+Montblanc Amber 46,Calvin Klein,169.81,"floral, amber",basic,8 hours,strong,unisex,daytime
+Hugo Boss Amber 37,Jo Malone,196.56,"fresh, oriental, floral",luxury,4 hours,moderate,male,daytime
+Bvlgari Fresh 26,Calvin Klein,267.37,"spicy, aquatic, citrus",basic,8 hours,moderate,unisex,casual
+Yves Saint Laurent Oriental 31,Dior,86.36,citrus,high-end,12+ hours,strong,female,special
+Yves Saint Laurent Oriental 8,Gucci,223.74,"amber, oriental",basic,8 hours,strong,female,special
+Jo Malone Floral 21,Calvin Klein,153.04,fruity,high-end,6 hours,light,male,evening
+Dior Amber 21,Chanel,148.69,"oriental, floral, fruity",basic,8 hours,strong,male,formal
+Jo Malone Fresh 15,Armani,150.31,"woody, amber, oriental",luxury,6 hours,light,unisex,special
+Yves Saint Laurent Amber 28,Bvlgari,212.38,"gourmand, woody, amber",basic,12+ hours,moderate,male,special
+Prada Fruity 17,Dolce & Gabbana,240.77,"gourmand, citrus, fresh",luxury,6 hours,light,unisex,formal
+Gucci Oriental 48,Dolce & Gabbana,150.15,"fresh, gourmand",high-end,10 hours,moderate,female,casual
+Yves Saint Laurent Woody 37,Gucci,222.07,"aquatic, gourmand",basic,6 hours,light,female,formal
+Yves Saint Laurent Gourmand 25,Versace,156.62,fresh,niche,12+ hours,light,unisex,casual
+Creed Woody 33,Jo Malone,220.35,"fresh, fruity",luxury,4 hours,light,male,evening
+Hugo Boss Woody 39,Chanel,283.38,"aquatic, leather, spicy",niche,6 hours,light,female,evening
+Chanel Leather 38,Calvin Klein,238.57,"woody, leather, spicy",luxury,4 hours,moderate,male,formal
+Armani Fruity 8,Tom Ford,51.57,"spicy, woody",basic,8 hours,strong,female,formal
+Cartier Leather 46,Givenchy,183.21,"citrus, fruity, leather",basic,10 hours,moderate,female,special
+Cartier Fruity 1,Yves Saint Laurent,124.83,"oriental, spicy",basic,12+ hours,moderate,unisex,special
+Lancôme Leather 44,Jo Malone,168.15,"woody, citrus, fresh",basic,4 hours,moderate,unisex,casual
+Prada Fruity 28,Cartier,167.56,fresh,basic,8 hours,moderate,female,special
+Dolce & Gabbana Citrus 18,Montblanc,276.03,"oriental, woody, spicy",luxury,10 hours,light,unisex,evening
+Givenchy Woody 4,Givenchy,268.83,"amber, floral, gourmand",niche,6 hours,strong,female,special
+Cartier Fresh 22,Chanel,102.81,"gourmand, amber",high-end,12+ hours,moderate,female,daytime
+Burberry Citrus 9,Dior,185.55,"aquatic, spicy",niche,10 hours,strong,male,casual
+Cartier Woody 8,Bvlgari,281.72,"woody, aquatic",basic,10 hours,moderate,female,casual
+Yves Saint Laurent Woody 4,Gucci,100.38,gourmand,niche,4 hours,strong,male,special
+Lancôme Oriental 25,Bvlgari,233.75,"amber, oriental, spicy",luxury,12+ hours,light,unisex,casual
+Versace Oriental 38,Yves Saint Laurent,228.31,"spicy, leather",high-end,4 hours,light,female,daytime
+Dolce & Gabbana Woody 29,Prada,243.15,amber,luxury,10 hours,light,female,formal
+Burberry Spicy 21,Hugo Boss,129.37,"fresh, woody",luxury,10 hours,light,male,formal
+Burberry Woody 40,Givenchy,63.01,"floral, aquatic, gourmand",luxury,4 hours,light,male,daytime
+Calvin Klein Floral 42,Armani,204.88,"amber, citrus, floral",niche,8 hours,strong,female,formal
+Bvlgari Amber 39,Givenchy,179.15,"aquatic, floral, woody",high-end,8 hours,moderate,unisex,special
+Versace Aquatic 49,Burberry,234.33,"amber, gourmand",niche,12+ hours,light,unisex,evening
+Dior Fresh 23,Creed,221.62,"amber, fruity, floral",niche,6 hours,light,female,special
+Versace Fresh 38,Hugo Boss,273.35,"spicy, citrus",niche,10 hours,moderate,female,casual
+Hermes Fruity 34,Hermes,152.05,spicy,high-end,6 hours,moderate,male,formal
+Tom Ford Leather 19,Hermes,291.96,"oriental, fresh, leather",basic,12+ hours,strong,female,special
+Versace Fruity 29,Prada,131.91,"aquatic, fruity, floral",basic,12+ hours,strong,unisex,formal
+Lancôme Gourmand 32,Yves Saint Laurent,143.99,"citrus, amber",luxury,8 hours,strong,unisex,casual
+Chanel Spicy 47,Hermes,292.8,"fresh, floral, woody",luxury,10 hours,moderate,male,special
+Lancôme Amber 44,Lancôme,152.5,"oriental, citrus, spicy",niche,8 hours,strong,female,casual
+Burberry Fresh 49,Calvin Klein,283.05,"fruity, gourmand",luxury,10 hours,strong,unisex,casual
+Cartier Citrus 9,Armani,147.51,fruity,high-end,12+ hours,light,male,evening
+Calvin Klein Citrus 27,Cartier,293.01,"floral, woody",luxury,6 hours,light,unisex,special
+Burberry Fruity 12,Jo Malone,199.33,"amber, spicy, fresh",luxury,4 hours,light,female,daytime
+Montblanc Spicy 4,Hugo Boss,71.92,"woody, gourmand",basic,4 hours,moderate,male,special
+Hugo Boss Fruity 45,Givenchy,271.46,"aquatic, fresh",luxury,8 hours,strong,unisex,formal
+Dolce & Gabbana Amber 25,Tom Ford,114.85,"oriental, leather",basic,8 hours,strong,unisex,formal
+Lancôme Fruity 40,Prada,263.66,"floral, aquatic",basic,10 hours,strong,unisex,special
+Lancôme Amber 4,Lancôme,69.61,"fresh, oriental, spicy",luxury,4 hours,moderate,unisex,casual
+Armani Spicy 42,Burberry,280.43,"amber, oriental",luxury,8 hours,strong,male,formal
+Creed Woody 15,Chanel,279.94,leather,basic,6 hours,strong,male,formal
+Bvlgari Amber 23,Gucci,249.58,"gourmand, woody",basic,8 hours,strong,unisex,special
+Chanel Spicy 1,Tom Ford,196.27,fruity,high-end,10 hours,light,female,casual
+Tom Ford Woody 48,Prada,134.64,"aquatic, fruity, citrus",niche,4 hours,strong,female,special
+Jo Malone Gourmand 11,Bvlgari,149.05,gourmand,luxury,12+ hours,moderate,male,evening
+Yves Saint Laurent Citrus 25,Lancôme,60.17,"citrus, fruity, aquatic",luxury,12+ hours,light,female,evening
+Chanel Aquatic 12,Gucci,148.74,"spicy, oriental",niche,4 hours,light,male,casual
+Prada Woody 22,Montblanc,195.71,"floral, spicy, woody",basic,8 hours,strong,female,special
+Hermes Oriental 26,Tom Ford,223.24,spicy,basic,12+ hours,moderate,unisex,special
+Creed Fruity 3,Chanel,259.55,"spicy, floral",luxury,4 hours,moderate,unisex,daytime
+Hermes Oriental 18,Burberry,229.85,spicy,luxury,10 hours,moderate,male,special
+Givenchy Floral 43,Calvin Klein,101.87,"floral, fruity",high-end,4 hours,strong,female,formal
+Dior Spicy 25,Armani,238.43,"spicy, leather",high-end,4 hours,light,female,special
+Calvin Klein Fresh 15,Hugo Boss,190.15,"oriental, floral",niche,8 hours,moderate,unisex,special
+Montblanc Floral 29,Montblanc,95.84,"amber, fresh, spicy",high-end,10 hours,moderate,unisex,formal
+Cartier Citrus 42,Hermes,125.08,"fruity, leather, spicy",niche,8 hours,moderate,female,evening
+Armani Citrus 37,Montblanc,268.93,"fruity, floral",niche,4 hours,moderate,female,evening
+Hermes Spicy 27,Prada,165.8,"leather, floral",basic,12+ hours,light,female,formal
+Versace Fresh 19,Montblanc,198.33,spicy,luxury,12+ hours,strong,male,formal
+Versace Fruity 20,Armani,130.9,"aquatic, spicy",basic,8 hours,light,unisex,evening
+Prada Fresh 45,Gucci,105.08,"leather, fruity, aquatic",luxury,4 hours,moderate,female,evening
+Versace Oriental 19,Lancôme,109.71,"aquatic, woody, citrus",luxury,12+ hours,moderate,male,formal
+Gucci Spicy 7,Jo Malone,119.24,"woody, fresh, leather",luxury,12+ hours,moderate,male,daytime
+Cartier Fresh 48,Armani,187.7,"fresh, oriental",high-end,6 hours,strong,unisex,special
+Chanel Amber 20,Calvin Klein,236.62,"leather, woody, fruity",luxury,8 hours,light,unisex,evening
+Tom Ford Spicy 31,Montblanc,236.51,leather,luxury,10 hours,strong,female,casual
+Prada Fruity 42,Cartier,125.39,"aquatic, amber, leather",luxury,10 hours,moderate,male,evening
+Calvin Klein Amber 24,Prada,269.3,spicy,high-end,8 hours,strong,unisex,formal
+Yves Saint Laurent Citrus 3,Creed,153.27,amber,basic,10 hours,strong,unisex,evening
+Chanel Citrus 6,Yves Saint Laurent,54.73,"aquatic, leather",basic,8 hours,strong,male,evening
+Armani Oriental 31,Hermes,112.46,"amber, spicy, floral",basic,10 hours,moderate,unisex,casual
+Montblanc Amber 19,Montblanc,141.01,"floral, aquatic, oriental",basic,6 hours,light,male,casual
+Jo Malone Leather 44,Chanel,232.1,"leather, floral",niche,8 hours,light,female,special
+Gucci Amber 1,Prada,190.39,"gourmand, aquatic",niche,12+ hours,moderate,female,formal
+Armani Oriental 4,Dior,86.47,fresh,niche,12+ hours,light,female,special
+Lancôme Amber 17,Calvin Klein,132.27,gourmand,luxury,12+ hours,moderate,unisex,casual
+Givenchy Floral 11,Jo Malone,266.74,aquatic,high-end,10 hours,strong,male,formal
+Givenchy Oriental 14,Dior,151.19,"oriental, gourmand, citrus",niche,4 hours,strong,male,casual
+Calvin Klein Amber 3,Montblanc,223.1,"leather, woody, citrus",luxury,6 hours,moderate,unisex,casual
+Burberry Oriental 26,Calvin Klein,67.25,"citrus, fresh, leather",basic,4 hours,moderate,female,daytime
+Versace Citrus 36,Chanel,182.4,woody,niche,6 hours,light,female,casual
+Creed Fruity 14,Burberry,222.19,"woody, amber",basic,8 hours,strong,unisex,daytime
+Bvlgari Aquatic 48,Dolce & Gabbana,50.33,"citrus, aquatic",basic,10 hours,light,unisex,daytime
+Givenchy Fresh 26,Dolce & Gabbana,253.33,gourmand,basic,10 hours,light,female,evening
+Gucci Leather 48,Hermes,222.43,"oriental, citrus",niche,12+ hours,moderate,male,evening
+Hermes Fruity 9,Creed,192.07,fruity,niche,12+ hours,moderate,male,casual
+Versace Gourmand 33,Versace,235.3,"spicy, aquatic",luxury,12+ hours,strong,unisex,evening
+Lancôme Oriental 13,Hugo Boss,73.27,citrus,basic,10 hours,moderate,male,casual
+Hugo Boss Woody 45,Tom Ford,140.91,"citrus, oriental",basic,12+ hours,strong,female,evening
+Hugo Boss Fresh 15,Calvin Klein,133.82,"citrus, floral",niche,12+ hours,moderate,male,casual
+Hermes Amber 3,Dolce & Gabbana,69.74,"amber, fruity",niche,8 hours,strong,unisex,special
+Lancôme Oriental 28,Chanel,113.07,spicy,luxury,8 hours,light,unisex,casual
+Montblanc Woody 24,Montblanc,210.25,leather,luxury,6 hours,light,female,evening
+Dolce & Gabbana Woody 35,Calvin Klein,73.84,leather,niche,12+ hours,moderate,male,casual
+Hermes Oriental 4,Cartier,122.24,amber,niche,12+ hours,light,female,daytime
+Cartier Leather 47,Chanel,209.85,"gourmand, aquatic, fresh",niche,8 hours,strong,unisex,daytime
+Dolce & Gabbana Oriental 4,Dolce & Gabbana,131.81,"floral, amber",basic,8 hours,strong,unisex,casual
+Creed Gourmand 26,Dolce & Gabbana,234.9,"amber, gourmand, fresh",luxury,12+ hours,strong,unisex,casual
+Calvin Klein Leather 14,Hermes,69.64,fresh,luxury,4 hours,light,male,casual
+Armani Citrus 36,Hermes,134.51,"oriental, spicy",high-end,4 hours,light,male,daytime
+Versace Fresh 40,Versace,116.66,"oriental, floral",basic,10 hours,strong,male,daytime
+Hugo Boss Gourmand 8,Burberry,75.42,leather,niche,4 hours,light,female,evening
+Dior Oriental 33,Calvin Klein,286.22,"fresh, fruity",high-end,6 hours,moderate,male,daytime
+Yves Saint Laurent Aquatic 5,Calvin Klein,110.45,"spicy, aquatic",high-end,10 hours,light,female,daytime
+Jo Malone Fruity 46,Gucci,85.51,aquatic,basic,6 hours,strong,female,casual
+Hugo Boss Gourmand 25,Armani,53.87,"floral, aquatic, spicy",basic,12+ hours,light,unisex,daytime
+Versace Spicy 17,Montblanc,252.26,"citrus, gourmand",high-end,8 hours,light,male,formal
+Lancôme Woody 37,Hermes,284.85,"spicy, floral, gourmand",niche,12+ hours,light,female,casual
+Jo Malone Floral 31,Lancôme,162.9,"oriental, spicy, gourmand",luxury,10 hours,light,unisex,evening
+Tom Ford Fresh 39,Dolce & Gabbana,83.26,"gourmand, floral",luxury,10 hours,strong,unisex,casual
+Calvin Klein Amber 2,Lancôme,147.36,"citrus, spicy",high-end,6 hours,light,unisex,special
+Montblanc Oriental 33,Calvin Klein,146.7,fresh,luxury,6 hours,light,unisex,daytime
+Hermes Spicy 25,Cartier,71.41,"woody, floral, fresh",luxury,10 hours,light,female,formal
+Hermes Floral 29,Armani,133.4,spicy,luxury,12+ hours,moderate,unisex,evening
+Givenchy Amber 26,Prada,237.47,"fruity, citrus",basic,12+ hours,strong,female,casual
+Yves Saint Laurent Oriental 10,Cartier,57.23,oriental,basic,8 hours,light,male,special
+Bvlgari Citrus 3,Montblanc,277.52,aquatic,basic,6 hours,strong,male,special
+Jo Malone Leather 10,Yves Saint Laurent,92.4,"gourmand, amber, fresh",luxury,12+ hours,light,male,evening
+Dior Woody 33,Versace,135.13,"floral, fresh",high-end,4 hours,light,unisex,daytime
+Tom Ford Fresh 15,Dior,94.4,"amber, fresh",niche,12+ hours,moderate,unisex,special
+Armani Floral 48,Tom Ford,223.17,"oriental, gourmand",high-end,6 hours,moderate,female,special
+Givenchy Floral 32,Lancôme,96.6,"amber, fruity, aquatic",niche,12+ hours,strong,unisex,formal
+Burberry Aquatic 45,Yves Saint Laurent,275.82,"citrus, oriental, fresh",niche,4 hours,moderate,male,daytime
+Calvin Klein Aquatic 41,Gucci,261.67,"oriental, leather, floral",luxury,10 hours,strong,unisex,formal
+Creed Aquatic 27,Chanel,60.43,"leather, woody",luxury,4 hours,strong,unisex,special
+Hermes Fruity 30,Prada,182.0,"leather, fresh, spicy",luxury,10 hours,light,female,formal
+Lancôme Gourmand 4,Versace,238.41,leather,basic,12+ hours,strong,male,casual
+Gucci Spicy 40,Cartier,290.25,"fresh, amber, floral",high-end,10 hours,strong,unisex,formal
+Versace Floral 26,Creed,256.85,fresh,luxury,12+ hours,light,male,evening
+Hugo Boss Citrus 10,Dolce & Gabbana,219.34,"spicy, oriental",high-end,10 hours,light,male,evening
+Versace Spicy 48,Dior,66.61,"floral, gourmand",niche,12+ hours,moderate,female,special
+Creed Spicy 22,Jo Malone,137.88,"woody, oriental, citrus",niche,6 hours,strong,female,special
+Jo Malone Citrus 15,Prada,243.8,"leather, oriental",luxury,4 hours,light,male,evening
+Chanel Fruity 48,Calvin Klein,245.77,leather,high-end,12+ hours,light,male,formal
+Chanel Floral 50,Hugo Boss,64.42,"woody, aquatic",luxury,6 hours,light,unisex,special
+Gucci Oriental 8,Cartier,276.02,fresh,basic,6 hours,moderate,unisex,daytime
+Dior Fresh 32,Dolce & Gabbana,191.81,"floral, spicy",basic,12+ hours,light,female,casual
+Burberry Oriental 7,Creed,99.1,gourmand,luxury,10 hours,light,unisex,casual
+Prada Citrus 49,Givenchy,235.21,"floral, amber, spicy",luxury,8 hours,moderate,female,daytime
+Givenchy Spicy 45,Creed,216.17,"fresh, leather",luxury,8 hours,light,male,evening
+Armani Gourmand 10,Dolce & Gabbana,116.03,"citrus, fresh",niche,6 hours,strong,male,special
+Prada Oriental 14,Calvin Klein,53.66,"woody, aquatic, floral",high-end,6 hours,strong,female,formal
+Jo Malone Citrus 19,Gucci,63.32,"leather, fruity, spicy",high-end,12+ hours,strong,unisex,daytime
+Prada Fruity 12,Hermes,288.09,woody,niche,6 hours,light,unisex,evening
+Cartier Woody 32,Montblanc,147.48,aquatic,luxury,4 hours,moderate,unisex,casual
+Hugo Boss Citrus 7,Dior,253.73,gourmand,basic,12+ hours,light,female,formal
+Tom Ford Aquatic 13,Dior,57.27,"aquatic, amber, woody",high-end,8 hours,strong,female,casual
+Givenchy Leather 49,Prada,267.91,"aquatic, gourmand, fresh",niche,10 hours,light,unisex,formal
+Lancôme Floral 1,Calvin Klein,171.15,"spicy, citrus, fruity",luxury,10 hours,moderate,unisex,formal
+Givenchy Gourmand 18,Givenchy,106.14,"gourmand, spicy, woody",niche,10 hours,moderate,male,casual
+Dior Fresh 48,Versace,136.9,"oriental, fresh, amber",niche,12+ hours,strong,unisex,formal
+Versace Gourmand 46,Creed,200.14,"floral, amber, leather",high-end,8 hours,moderate,unisex,evening
+Jo Malone Amber 34,Jo Malone,296.17,"aquatic, fruity",basic,8 hours,strong,male,special
+Montblanc Aquatic 8,Bvlgari,204.26,"oriental, leather",basic,12+ hours,strong,unisex,special
+Hermes Gourmand 10,Bvlgari,129.72,"citrus, aquatic",niche,6 hours,strong,female,formal
+Hermes Fresh 5,Versace,278.53,"floral, fruity, woody",high-end,6 hours,strong,unisex,evening
+Yves Saint Laurent Spicy 3,Montblanc,137.74,"gourmand, amber, aquatic",high-end,10 hours,moderate,male,formal
+Versace Woody 19,Givenchy,195.89,"spicy, woody",basic,6 hours,strong,female,casual
+Armani Woody 1,Dior,195.97,"floral, amber",basic,4 hours,moderate,male,casual
+Tom Ford Aquatic 12,Yves Saint Laurent,104.33,aquatic,basic,6 hours,moderate,male,daytime
+Givenchy Amber 23,Versace,138.09,floral,basic,8 hours,strong,male,special
+Dolce & Gabbana Floral 7,Chanel,81.48,fruity,high-end,10 hours,light,unisex,evening
+Yves Saint Laurent Oriental 29,Tom Ford,63.23,"fruity, oriental",high-end,8 hours,moderate,unisex,evening
+Creed Spicy 18,Calvin Klein,105.75,leather,luxury,12+ hours,strong,unisex,casual
+Yves Saint Laurent Citrus 4,Tom Ford,187.18,gourmand,niche,8 hours,light,unisex,formal
+Calvin Klein Citrus 38,Jo Malone,145.63,fruity,luxury,12+ hours,moderate,female,formal
+Burberry Amber 45,Cartier,169.52,oriental,basic,6 hours,strong,female,casual
+Lancôme Fresh 18,Givenchy,125.18,floral,niche,8 hours,moderate,female,daytime
+Hugo Boss Amber 3,Givenchy,107.53,woody,niche,8 hours,moderate,female,daytime
+Chanel Fresh 45,Burberry,102.71,"aquatic, woody",luxury,12+ hours,moderate,male,daytime
+Givenchy Spicy 36,Prada,135.24,amber,luxury,4 hours,moderate,unisex,casual
+Hugo Boss Citrus 43,Tom Ford,186.57,"spicy, amber",luxury,6 hours,light,unisex,formal
+Chanel Amber 18,Gucci,260.24,"gourmand, leather",basic,4 hours,moderate,male,evening
+Cartier Aquatic 49,Givenchy,210.58,fresh,high-end,6 hours,light,female,casual
+Burberry Fruity 20,Cartier,259.21,"gourmand, aquatic",basic,4 hours,light,unisex,casual
+Calvin Klein Gourmand 6,Jo Malone,140.95,"citrus, amber, leather",high-end,6 hours,moderate,male,evening
+Jo Malone Amber 39,Tom Ford,173.37,"gourmand, oriental, woody",niche,6 hours,light,female,evening
+Burberry Floral 31,Cartier,275.73,spicy,luxury,10 hours,strong,male,formal
+Hugo Boss Woody 30,Givenchy,215.75,"citrus, aquatic, oriental",high-end,10 hours,strong,female,casual
+Bvlgari Amber 44,Chanel,266.96,"leather, amber",luxury,10 hours,light,unisex,formal
+Creed Leather 32,Dolce & Gabbana,222.71,"citrus, aquatic, fruity",basic,10 hours,moderate,female,evening
+Chanel Citrus 10,Bvlgari,225.57,citrus,niche,4 hours,moderate,male,casual
+Tom Ford Spicy 27,Burberry,285.64,"leather, spicy",luxury,4 hours,moderate,male,evening
+Cartier Citrus 3,Dior,57.84,spicy,high-end,6 hours,light,unisex,casual
+Calvin Klein Fruity 18,Bvlgari,87.19,"amber, spicy, fresh",basic,6 hours,moderate,female,daytime
+Cartier Gourmand 17,Tom Ford,298.09,"aquatic, gourmand, floral",basic,12+ hours,moderate,male,special
+Lancôme Fruity 6,Hermes,95.29,"gourmand, floral, amber",niche,6 hours,strong,unisex,casual
+Versace Floral 10,Lancôme,280.24,"fruity, floral, woody",high-end,4 hours,strong,unisex,special
+Chanel Citrus 46,Cartier,153.87,"leather, fresh",high-end,6 hours,light,male,daytime
+Dior Amber 45,Prada,58.28,"floral, fruity",niche,8 hours,light,female,formal
+Dior Fruity 28,Versace,277.09,floral,niche,12+ hours,light,female,special
+Hugo Boss Spicy 35,Bvlgari,53.19,citrus,luxury,4 hours,light,unisex,evening
+Hugo Boss Woody 25,Givenchy,122.41,"oriental, fruity, citrus",basic,8 hours,moderate,female,special
+Yves Saint Laurent Leather 13,Burberry,292.92,"woody, fresh",high-end,6 hours,light,male,evening
+Cartier Fruity 17,Prada,86.5,"citrus, floral, amber",basic,12+ hours,strong,female,special
+Givenchy Fresh 45,Versace,240.82,"gourmand, fresh",luxury,10 hours,light,male,daytime
+Givenchy Amber 1,Tom Ford,207.17,citrus,niche,8 hours,moderate,unisex,evening
+Creed Floral 39,Givenchy,62.23,"leather, oriental",basic,4 hours,moderate,female,evening
+Lancôme Spicy 9,Lancôme,146.63,"fruity, citrus, floral",basic,10 hours,strong,unisex,formal
+Bvlgari Woody 15,Dior,63.58,fresh,luxury,8 hours,light,unisex,evening
+Dolce & Gabbana Spicy 43,Jo Malone,215.06,"spicy, amber",basic,12+ hours,moderate,female,formal
+Calvin Klein Oriental 24,Hugo Boss,144.07,"leather, fruity, floral",basic,6 hours,light,unisex,daytime
+Montblanc Floral 42,Montblanc,182.24,"fruity, floral, citrus",niche,10 hours,strong,unisex,evening
+Tom Ford Floral 27,Hugo Boss,211.26,fruity,high-end,6 hours,strong,female,daytime
+Lancôme Spicy 6,Calvin Klein,154.92,"leather, gourmand",high-end,10 hours,moderate,unisex,formal
+Prada Amber 9,Burberry,104.35,"aquatic, leather",luxury,10 hours,light,female,evening
+Prada Woody 5,Chanel,225.03,"citrus, spicy",high-end,12+ hours,strong,unisex,special
+Lancôme Oriental 25,Dolce & Gabbana,258.2,"amber, aquatic",high-end,6 hours,strong,unisex,evening
+Calvin Klein Gourmand 21,Hugo Boss,68.02,"leather, fresh, floral",high-end,8 hours,light,male,special
+Jo Malone Amber 41,Gucci,230.63,"fresh, spicy, aquatic",high-end,6 hours,light,female,formal
+Hugo Boss Fruity 12,Prada,185.62,"oriental, leather",basic,6 hours,light,male,evening
+Jo Malone Aquatic 20,Armani,213.17,"oriental, aquatic",luxury,12+ hours,strong,unisex,evening
+Calvin Klein Spicy 2,Dior,134.34,"fresh, amber",luxury,10 hours,moderate,male,evening
+Prada Amber 23,Dolce & Gabbana,225.7,"gourmand, woody",high-end,12+ hours,strong,male,evening
+Lancôme Spicy 42,Dolce & Gabbana,118.25,"floral, gourmand, woody",luxury,8 hours,moderate,female,special
+Lancôme Woody 17,Givenchy,138.97,"gourmand, spicy, floral",basic,4 hours,strong,male,casual
+Armani Fresh 48,Hugo Boss,217.55,"woody, leather",niche,6 hours,light,male,evening
+Yves Saint Laurent Woody 22,Burberry,214.68,floral,luxury,12+ hours,strong,female,casual
+Prada Spicy 43,Cartier,236.86,"oriental, amber, spicy",basic,4 hours,strong,male,casual
+Versace Fruity 19,Armani,69.73,"floral, woody, oriental",basic,12+ hours,strong,female,evening
+Lancôme Gourmand 46,Burberry,259.27,"citrus, spicy, amber",basic,6 hours,strong,female,casual
+Burberry Spicy 5,Cartier,206.37,"aquatic, fresh, fruity",luxury,6 hours,moderate,male,special
+Dolce & Gabbana Aquatic 16,Dolce & Gabbana,145.55,woody,luxury,8 hours,light,female,formal
+Hugo Boss Spicy 33,Yves Saint Laurent,120.24,floral,basic,8 hours,moderate,unisex,formal
+Cartier Floral 12,Hermes,261.2,"floral, citrus, gourmand",niche,4 hours,strong,female,daytime
+Gucci Gourmand 41,Montblanc,252.5,"citrus, spicy",high-end,4 hours,moderate,unisex,daytime
+Givenchy Citrus 17,Burberry,107.66,"aquatic, gourmand, fresh",high-end,8 hours,strong,female,formal
+Burberry Citrus 22,Jo Malone,284.03,"fruity, fresh, oriental",high-end,12+ hours,moderate,female,special
+Versace Fruity 32,Chanel,270.45,amber,luxury,10 hours,strong,unisex,evening
+Prada Oriental 25,Jo Malone,157.43,aquatic,luxury,12+ hours,light,female,casual
+Versace Spicy 39,Hugo Boss,77.7,"floral, oriental",basic,6 hours,light,unisex,daytime
+Versace Leather 39,Tom Ford,177.89,"aquatic, spicy",high-end,10 hours,strong,female,formal
+Prada Citrus 36,Calvin Klein,287.7,"fruity, woody, citrus",niche,6 hours,strong,unisex,formal
+Gucci Aquatic 12,Creed,217.38,"leather, amber, woody",basic,10 hours,light,unisex,special
+Prada Amber 44,Burberry,102.15,"woody, aquatic, fruity",niche,4 hours,strong,male,daytime
+Bvlgari Fruity 17,Tom Ford,216.05,"citrus, gourmand",luxury,8 hours,moderate,male,casual
+Tom Ford Spicy 21,Bvlgari,177.62,"leather, amber, fruity",luxury,10 hours,strong,unisex,evening
+Montblanc Floral 29,Calvin Klein,83.97,"amber, leather, citrus",high-end,8 hours,moderate,male,formal
+Chanel Oriental 14,Gucci,86.49,spicy,high-end,12+ hours,strong,male,formal
+Cartier Spicy 44,Lancôme,122.13,"citrus, leather, fruity",basic,6 hours,light,unisex,daytime
+Armani Woody 22,Dolce & Gabbana,191.55,"gourmand, woody, oriental",basic,4 hours,strong,female,casual
+Tom Ford Citrus 3,Dolce & Gabbana,145.86,"woody, fruity, aquatic",basic,4 hours,strong,female,casual
+Jo Malone Fresh 1,Montblanc,182.81,leather,high-end,12+ hours,moderate,unisex,evening
+Versace Citrus 5,Prada,220.31,"gourmand, leather",luxury,4 hours,strong,unisex,special
+Yves Saint Laurent Spicy 22,Creed,291.03,floral,basic,6 hours,light,unisex,formal
+Chanel Fresh 16,Burberry,135.17,"spicy, citrus, amber",basic,12+ hours,moderate,female,special
+Armani Citrus 1,Montblanc,136.46,woody,niche,10 hours,strong,female,daytime
+Lancôme Woody 4,Montblanc,188.78,"floral, fresh, oriental",niche,6 hours,strong,unisex,casual
+Givenchy Fresh 46,Burberry,235.4,"floral, oriental",niche,8 hours,moderate,male,casual
+Dolce & Gabbana Fresh 9,Gucci,147.67,"aquatic, oriental",niche,8 hours,strong,unisex,formal
+Armani Citrus 6,Prada,219.14,fresh,high-end,4 hours,moderate,unisex,daytime
+Burberry Fruity 46,Hermes,72.77,"citrus, amber",basic,4 hours,moderate,male,special
+Lancôme Floral 6,Lancôme,249.9,"fruity, amber",niche,6 hours,moderate,female,casual
+Cartier Oriental 11,Burberry,233.2,"floral, spicy, oriental",niche,8 hours,strong,female,casual
+Hermes Fruity 37,Burberry,50.68,"oriental, aquatic, fresh",high-end,10 hours,moderate,male,formal
+Tom Ford Amber 12,Hugo Boss,173.72,"fruity, leather, aquatic",luxury,4 hours,moderate,male,casual
+Gucci Floral 34,Dolce & Gabbana,189.06,floral,basic,6 hours,strong,male,daytime
+Creed Citrus 14,Versace,71.43,leather,basic,10 hours,moderate,unisex,daytime
+Versace Fruity 4,Versace,173.62,spicy,basic,10 hours,moderate,male,formal
+Versace Leather 23,Versace,126.62,"floral, oriental, spicy",high-end,12+ hours,moderate,female,evening
+Hermes Amber 9,Hermes,82.55,"fruity, spicy",basic,10 hours,moderate,male,daytime
+Lancôme Spicy 5,Armani,173.04,"aquatic, amber",luxury,10 hours,light,male,evening
+Gucci Spicy 50,Hermes,59.54,"amber, leather",basic,12+ hours,light,unisex,formal
+Jo Malone Leather 50,Givenchy,177.16,spicy,high-end,6 hours,moderate,male,casual
+Cartier Woody 37,Prada,230.38,oriental,basic,10 hours,strong,male,evening
+Versace Oriental 13,Montblanc,119.18,aquatic,basic,10 hours,strong,unisex,evening
+Chanel Oriental 24,Lancôme,156.63,"leather, woody",basic,4 hours,moderate,unisex,daytime
+Hermes Aquatic 32,Burberry,104.93,floral,high-end,8 hours,light,female,daytime
+Burberry Citrus 38,Givenchy,179.44,"citrus, fruity, fresh",luxury,10 hours,strong,male,evening
+Tom Ford Fruity 4,Yves Saint Laurent,195.28,citrus,luxury,6 hours,moderate,unisex,special
+Montblanc Woody 45,Bvlgari,187.59,"aquatic, oriental, citrus",basic,12+ hours,strong,female,daytime
+Dior Aquatic 25,Jo Malone,156.19,"oriental, fruity",luxury,6 hours,moderate,male,evening
+Hugo Boss Amber 27,Hugo Boss,75.14,"floral, fresh, leather",basic,8 hours,light,male,formal
+Bvlgari Fresh 26,Creed,257.64,"amber, aquatic, spicy",niche,6 hours,moderate,female,casual
+Montblanc Citrus 14,Lancôme,135.98,citrus,luxury,4 hours,moderate,male,formal
+Gucci Woody 31,Armani,154.66,leather,luxury,4 hours,strong,male,evening
+Hermes Leather 45,Yves Saint Laurent,174.63,floral,high-end,6 hours,strong,female,daytime
+Calvin Klein Woody 46,Dior,114.18,oriental,niche,6 hours,strong,female,casual
+Montblanc Oriental 43,Armani,205.25,"spicy, aquatic",luxury,12+ hours,strong,female,special
+Lancôme Oriental 19,Prada,56.57,"spicy, amber",niche,6 hours,light,unisex,daytime
+Prada Aquatic 48,Creed,176.92,"gourmand, amber",high-end,4 hours,strong,female,formal
+Cartier Fruity 35,Chanel,153.42,"woody, gourmand, aquatic",niche,10 hours,strong,female,formal
+Jo Malone Floral 22,Chanel,189.83,"floral, gourmand",basic,4 hours,strong,unisex,formal
+Prada Fresh 44,Calvin Klein,193.66,"fruity, leather, fresh",basic,12+ hours,light,male,special
+Lancôme Spicy 27,Armani,94.94,fresh,luxury,6 hours,moderate,male,formal
+Dolce & Gabbana Floral 1,Hermes,91.08,amber,high-end,12+ hours,strong,female,casual
+Burberry Citrus 13,Tom Ford,290.24,woody,niche,6 hours,light,female,casual
+Prada Floral 12,Dolce & Gabbana,126.54,leather,luxury,6 hours,strong,male,casual
+Creed Oriental 22,Chanel,230.56,"spicy, aquatic, leather",high-end,6 hours,moderate,female,daytime
+Calvin Klein Aquatic 24,Burberry,198.45,"fruity, leather, floral",basic,12+ hours,moderate,male,daytime
+Calvin Klein Woody 38,Chanel,125.7,"floral, fruity",luxury,8 hours,moderate,female,evening
+Hugo Boss Aquatic 45,Montblanc,200.52,"leather, gourmand, fruity",luxury,10 hours,strong,male,special
+Versace Gourmand 3,Hugo Boss,226.59,"fresh, leather, citrus",luxury,10 hours,strong,unisex,daytime
+Hermes Fresh 15,Yves Saint Laurent,266.33,amber,high-end,6 hours,strong,male,special
+Jo Malone Citrus 10,Montblanc,75.61,"woody, aquatic",luxury,12+ hours,strong,female,daytime
+Armani Woody 25,Lancôme,76.27,"gourmand, aquatic",basic,10 hours,moderate,female,special
+Burberry Fresh 5,Givenchy,191.8,"amber, citrus",luxury,4 hours,light,unisex,formal
+Bvlgari Spicy 9,Versace,112.32,"floral, spicy, fruity",high-end,12+ hours,light,female,casual
+Hugo Boss Aquatic 1,Yves Saint Laurent,233.78,"leather, fruity, woody",luxury,8 hours,moderate,unisex,evening
+Lancôme Floral 45,Montblanc,297.2,"leather, floral",luxury,6 hours,strong,male,daytime
+Calvin Klein Aquatic 41,Chanel,119.51,"fresh, spicy",high-end,10 hours,moderate,unisex,daytime
+Lancôme Fruity 45,Versace,222.31,amber,basic,12+ hours,light,unisex,formal
+Hugo Boss Leather 19,Jo Malone,221.09,"oriental, citrus, spicy",niche,12+ hours,strong,female,daytime
+Tom Ford Fruity 2,Hugo Boss,206.92,"fruity, citrus, woody",high-end,10 hours,light,male,casual
+Dior Fresh 23,Yves Saint Laurent,203.75,"amber, leather, spicy",high-end,6 hours,moderate,unisex,special
+Hugo Boss Leather 23,Versace,196.03,"amber, oriental",high-end,6 hours,strong,unisex,evening
+Bvlgari Fruity 22,Chanel,218.11,citrus,luxury,8 hours,moderate,unisex,daytime
+Givenchy Fresh 28,Armani,115.14,"gourmand, spicy, floral",niche,12+ hours,moderate,male,daytime
+Hermes Woody 24,Jo Malone,257.16,leather,high-end,4 hours,light,unisex,casual
+Lancôme Oriental 4,Hugo Boss,224.73,aquatic,basic,4 hours,moderate,female,daytime
+Prada Amber 12,Jo Malone,257.98,"gourmand, oriental, floral",luxury,6 hours,moderate,female,daytime
+Cartier Gourmand 21,Gucci,246.04,fresh,niche,10 hours,moderate,female,casual
+Givenchy Floral 4,Chanel,123.3,"woody, gourmand",basic,10 hours,light,male,formal
+Burberry Oriental 4,Cartier,243.97,"spicy, citrus, amber",high-end,12+ hours,moderate,female,formal
+Jo Malone Oriental 50,Bvlgari,174.57,"fresh, citrus",luxury,8 hours,moderate,male,formal
+Cartier Oriental 4,Burberry,115.8,"gourmand, spicy, woody",high-end,10 hours,moderate,female,daytime
+Prada Fruity 13,Bvlgari,297.34,"oriental, woody, fruity",basic,10 hours,strong,male,formal
+Montblanc Floral 37,Cartier,161.2,"gourmand, leather, woody",basic,6 hours,strong,unisex,special
+Yves Saint Laurent Fruity 41,Burberry,160.45,floral,basic,8 hours,light,female,daytime
+Prada Aquatic 25,Jo Malone,296.77,gourmand,basic,10 hours,moderate,unisex,formal
+Armani Spicy 39,Montblanc,101.86,leather,high-end,6 hours,strong,unisex,special
+Hugo Boss Aquatic 5,Creed,107.34,"spicy, citrus, aquatic",luxury,4 hours,moderate,male,daytime
+Tom Ford Amber 16,Creed,193.23,"floral, aquatic, citrus",high-end,10 hours,light,unisex,special
+Lancôme Amber 40,Cartier,262.11,"gourmand, aquatic",high-end,12+ hours,strong,male,special
+Givenchy Leather 49,Calvin Klein,122.07,oriental,high-end,8 hours,light,male,daytime
+Cartier Spicy 47,Chanel,212.65,"aquatic, oriental, citrus",niche,10 hours,light,male,formal
+Hugo Boss Aquatic 28,Jo Malone,283.79,aquatic,basic,10 hours,light,unisex,special
+Prada Citrus 12,Burberry,268.72,floral,niche,10 hours,moderate,male,formal
+Lancôme Fresh 38,Tom Ford,219.99,"spicy, leather, fruity",high-end,4 hours,moderate,unisex,special
+Jo Malone Amber 19,Chanel,90.33,"oriental, woody",high-end,12+ hours,light,female,daytime
+Tom Ford Amber 2,Bvlgari,163.12,"amber, woody",niche,4 hours,light,male,evening
+Versace Citrus 32,Cartier,276.6,"fresh, floral",niche,10 hours,strong,male,formal
+Bvlgari Fruity 16,Gucci,158.52,"fresh, aquatic, floral",basic,4 hours,light,unisex,casual
+Chanel Aquatic 14,Versace,250.22,"woody, citrus",niche,10 hours,strong,unisex,evening
+Chanel Amber 35,Hugo Boss,228.95,oriental,niche,6 hours,strong,unisex,special
+Prada Amber 26,Versace,209.19,"floral, fresh, aquatic",niche,4 hours,moderate,female,evening
+Jo Malone Fresh 6,Armani,296.65,"oriental, citrus, gourmand",high-end,12+ hours,moderate,female,evening
+Lancôme Spicy 6,Armani,175.95,"fruity, spicy, citrus",luxury,10 hours,light,female,formal
+Versace Woody 43,Armani,195.84,"amber, gourmand, spicy",high-end,8 hours,light,unisex,casual
+Armani Oriental 39,Prada,249.94,"fresh, woody, aquatic",niche,6 hours,light,male,casual
+Hermes Fruity 8,Bvlgari,114.82,aquatic,high-end,8 hours,strong,male,formal
+Chanel Spicy 47,Montblanc,224.55,"fruity, aquatic",niche,4 hours,light,male,evening
+Bvlgari Floral 27,Prada,226.95,"leather, gourmand, citrus",luxury,6 hours,moderate,female,evening
+Jo Malone Gourmand 7,Versace,107.46,fruity,niche,10 hours,strong,female,casual
+Hugo Boss Fruity 7,Givenchy,92.34,amber,luxury,4 hours,strong,male,formal
+Jo Malone Oriental 4,Yves Saint Laurent,241.28,leather,basic,6 hours,strong,unisex,special
+Jo Malone Floral 11,Gucci,123.86,"oriental, floral",basic,6 hours,moderate,unisex,evening
+Chanel Fresh 50,Hermes,176.66,"woody, aquatic",high-end,4 hours,light,female,daytime
+Burberry Woody 46,Prada,104.8,"leather, floral, aquatic",high-end,6 hours,strong,unisex,casual
+Lancôme Amber 20,Gucci,128.19,"amber, citrus",niche,8 hours,light,female,formal
+Armani Amber 42,Versace,282.97,"woody, floral, aquatic",high-end,4 hours,light,unisex,special
+Versace Floral 28,Givenchy,55.25,oriental,high-end,10 hours,strong,female,special
+Dior Floral 4,Bvlgari,151.0,"amber, aquatic",high-end,8 hours,light,unisex,daytime
+Tom Ford Floral 47,Cartier,85.96,"woody, gourmand, aquatic",niche,4 hours,strong,unisex,casual
+Tom Ford Oriental 43,Versace,110.83,oriental,high-end,10 hours,strong,female,daytime
+Hugo Boss Citrus 31,Givenchy,168.16,gourmand,luxury,10 hours,moderate,female,casual
+Gucci Woody 1,Versace,279.43,leather,niche,4 hours,moderate,unisex,evening
+Cartier Spicy 40,Lancôme,294.66,"leather, fruity",niche,10 hours,strong,female,daytime
+Dior Fruity 36,Hermes,241.28,fresh,luxury,12+ hours,light,female,daytime
+Armani Fresh 50,Armani,141.15,"oriental, amber, gourmand",high-end,12+ hours,light,male,special
+Dolce & Gabbana Leather 40,Chanel,138.2,gourmand,high-end,8 hours,moderate,female,special
+Versace Spicy 34,Hugo Boss,285.28,spicy,luxury,12+ hours,strong,unisex,formal
+Jo Malone Floral 21,Givenchy,253.49,"fruity, floral",niche,12+ hours,moderate,unisex,evening
+Prada Woody 2,Dolce & Gabbana,283.63,"leather, woody, spicy",high-end,6 hours,light,unisex,casual
+Armani Fresh 50,Hugo Boss,215.17,oriental,high-end,4 hours,light,unisex,evening
+Cartier Spicy 38,Dior,72.48,fruity,basic,12+ hours,strong,male,casual
+Gucci Oriental 37,Hermes,136.46,"aquatic, floral",luxury,4 hours,light,male,casual
+Armani Floral 31,Jo Malone,62.54,"amber, floral, fresh",basic,10 hours,light,unisex,formal
+Cartier Leather 27,Gucci,256.06,"woody, leather",basic,4 hours,light,female,evening
+Hugo Boss Fresh 25,Tom Ford,281.39,"fruity, gourmand, floral",high-end,4 hours,moderate,female,casual
+Creed Woody 13,Givenchy,151.54,"citrus, gourmand",high-end,8 hours,moderate,male,evening
+Gucci Amber 9,Montblanc,244.51,"citrus, floral",basic,4 hours,moderate,female,special
+Burberry Amber 30,Tom Ford,85.91,fruity,basic,10 hours,strong,female,daytime
+Tom Ford Floral 41,Givenchy,143.72,"fruity, fresh, floral",high-end,8 hours,strong,unisex,special
+Calvin Klein Oriental 20,Gucci,211.19,"fruity, woody, gourmand",niche,10 hours,strong,female,formal
+Lancôme Oriental 9,Yves Saint Laurent,145.92,spicy,basic,4 hours,moderate,male,formal
+Givenchy Aquatic 13,Yves Saint Laurent,115.58,"citrus, oriental, spicy",niche,6 hours,strong,male,formal
+Dolce & Gabbana Citrus 46,Montblanc,89.76,fresh,high-end,10 hours,moderate,unisex,formal
+Jo Malone Amber 30,Yves Saint Laurent,256.36,"fruity, oriental, spicy",basic,6 hours,light,female,casual
+Chanel Leather 31,Armani,258.98,"oriental, citrus, fruity",basic,4 hours,light,unisex,formal
+Armani Spicy 13,Jo Malone,67.91,"aquatic, fruity",luxury,4 hours,moderate,male,special
+Yves Saint Laurent Leather 28,Cartier,227.57,"gourmand, amber, floral",niche,6 hours,light,male,special
+Givenchy Gourmand 44,Armani,266.1,"spicy, fruity, oriental",niche,10 hours,moderate,unisex,formal
+Cartier Floral 34,Prada,186.35,"aquatic, fruity",basic,4 hours,moderate,male,formal
+Prada Gourmand 32,Yves Saint Laurent,110.16,"amber, fresh, fruity",basic,12+ hours,light,unisex,casual
+Calvin Klein Aquatic 34,Burberry,154.26,"spicy, oriental, leather",niche,4 hours,strong,female,special
+Burberry Woody 15,Armani,115.92,"fresh, spicy, amber",basic,4 hours,moderate,female,evening
+Calvin Klein Fruity 1,Montblanc,50.72,woody,high-end,10 hours,light,unisex,evening
+Lancôme Amber 32,Calvin Klein,149.51,oriental,basic,4 hours,moderate,female,special
+Yves Saint Laurent Spicy 36,Burberry,273.38,"amber, citrus, spicy",basic,12+ hours,moderate,female,evening
+Prada Spicy 15,Dolce & Gabbana,89.77,gourmand,high-end,6 hours,strong,unisex,formal
+Tom Ford Citrus 24,Gucci,79.28,aquatic,luxury,8 hours,light,unisex,evening
+Bvlgari Gourmand 1,Tom Ford,210.68,"spicy, aquatic, floral",niche,4 hours,light,female,formal
+Burberry Fruity 33,Burberry,276.21,fresh,luxury,10 hours,light,unisex,casual
+Montblanc Spicy 27,Jo Malone,294.14,aquatic,niche,8 hours,light,female,evening
+Dolce & Gabbana Spicy 11,Dolce & Gabbana,265.2,"amber, floral",niche,12+ hours,strong,male,formal
+Burberry Woody 18,Chanel,80.68,"oriental, spicy",luxury,8 hours,strong,female,casual
+Bvlgari Citrus 24,Hermes,251.76,"fruity, gourmand, fresh",niche,12+ hours,moderate,male,daytime
+Burberry Gourmand 10,Versace,137.98,"floral, woody",niche,8 hours,strong,male,formal
+Chanel Fruity 50,Versace,72.19,"fruity, fresh",luxury,6 hours,light,unisex,special
+Cartier Aquatic 46,Calvin Klein,257.57,"citrus, amber, spicy",basic,8 hours,strong,male,special
+Gucci Oriental 2,Dolce & Gabbana,152.3,"oriental, gourmand, spicy",luxury,6 hours,strong,female,evening
+Dior Oriental 18,Chanel,223.58,"floral, fruity, aquatic",basic,6 hours,moderate,male,evening
+Givenchy Leather 34,Prada,78.49,"oriental, spicy, woody",basic,4 hours,moderate,unisex,formal
+Hermes Citrus 15,Hermes,193.73,"leather, gourmand, woody",luxury,12+ hours,strong,female,casual
+Cartier Spicy 8,Cartier,235.25,"amber, fruity",basic,6 hours,strong,male,daytime
+Prada Aquatic 40,Chanel,60.43,spicy,luxury,4 hours,strong,male,daytime
+Armani Aquatic 25,Creed,207.35,fresh,niche,12+ hours,strong,unisex,special
+Hugo Boss Gourmand 26,Bvlgari,210.54,fresh,luxury,6 hours,light,unisex,formal
+Armani Woody 49,Armani,70.6,"spicy, gourmand, aquatic",high-end,10 hours,moderate,male,evening
+Hugo Boss Woody 44,Creed,224.91,citrus,niche,10 hours,moderate,unisex,daytime
+Creed Leather 46,Yves Saint Laurent,167.82,"fruity, fresh",high-end,10 hours,light,unisex,formal
+Gucci Oriental 47,Jo Malone,261.01,"aquatic, fresh, floral",luxury,6 hours,strong,female,formal
+Chanel Woody 22,Calvin Klein,81.61,"fruity, floral",niche,6 hours,moderate,female,special
+Bvlgari Fresh 45,Cartier,150.93,"floral, woody, spicy",high-end,6 hours,moderate,male,daytime
+Gucci Amber 35,Armani,210.93,"citrus, fresh",high-end,6 hours,light,unisex,special
+Yves Saint Laurent Spicy 31,Montblanc,186.48,gourmand,high-end,8 hours,light,female,daytime
+Jo Malone Fresh 23,Prada,79.78,"leather, woody, citrus",high-end,8 hours,strong,female,formal
+Dolce & Gabbana Oriental 24,Jo Malone,127.25,fresh,luxury,4 hours,moderate,unisex,evening
+Creed Oriental 4,Prada,98.64,aquatic,high-end,6 hours,moderate,male,special
+Armani Fruity 22,Dolce & Gabbana,100.04,"aquatic, fruity, gourmand",high-end,8 hours,moderate,female,special
+Burberry Gourmand 46,Gucci,273.96,"woody, leather",luxury,6 hours,moderate,female,formal
+Cartier Spicy 8,Bvlgari,281.47,"oriental, woody",high-end,10 hours,moderate,female,daytime
+Tom Ford Citrus 18,Burberry,56.48,spicy,niche,6 hours,strong,female,casual
+Burberry Woody 26,Creed,71.15,"aquatic, leather, spicy",basic,12+ hours,moderate,male,formal
+Jo Malone Citrus 3,Yves Saint Laurent,123.0,"floral, spicy, amber",niche,4 hours,strong,female,casual
+Hugo Boss Woody 7,Creed,278.54,aquatic,basic,6 hours,strong,female,formal
+Givenchy Gourmand 27,Prada,254.26,"woody, amber, leather",luxury,12+ hours,moderate,unisex,special
+Jo Malone Spicy 3,Givenchy,229.43,"fruity, gourmand",niche,6 hours,light,unisex,special
+Lancôme Amber 24,Montblanc,219.31,"citrus, fresh, woody",high-end,10 hours,strong,male,special
+Gucci Oriental 46,Cartier,242.9,spicy,luxury,12+ hours,strong,male,daytime
+Givenchy Amber 24,Dior,160.33,"fresh, woody",niche,12+ hours,light,female,evening
+Versace Citrus 36,Calvin Klein,131.77,gourmand,luxury,8 hours,strong,male,formal
+Burberry Fresh 44,Lancôme,206.3,"floral, aquatic",niche,6 hours,moderate,male,daytime
+Hugo Boss Oriental 17,Yves Saint Laurent,208.0,"aquatic, woody",luxury,4 hours,strong,female,special
+Chanel Gourmand 14,Calvin Klein,225.9,spicy,basic,4 hours,light,male,evening
+Tom Ford Gourmand 37,Bvlgari,61.36,"aquatic, gourmand",niche,10 hours,moderate,unisex,casual
+Cartier Amber 41,Dior,145.65,"woody, leather",niche,10 hours,light,female,formal
+Chanel Woody 12,Bvlgari,126.57,"gourmand, spicy, floral",luxury,10 hours,moderate,female,casual
+Hugo Boss Floral 19,Jo Malone,183.15,spicy,basic,10 hours,light,female,daytime
+Chanel Citrus 26,Hugo Boss,189.29,"leather, spicy",niche,6 hours,light,female,evening
+Calvin Klein Leather 32,Dolce & Gabbana,99.8,"citrus, leather",luxury,10 hours,light,female,daytime
+Dior Floral 6,Burberry,204.3,"fruity, gourmand, fresh",high-end,12+ hours,moderate,female,daytime
+Dolce & Gabbana Woody 50,Gucci,177.99,"amber, citrus, floral",luxury,12+ hours,light,female,formal
+Burberry Gourmand 43,Burberry,205.16,"fruity, woody, fresh",basic,10 hours,light,female,casual
+Chanel Amber 36,Dior,290.26,woody,luxury,10 hours,light,female,evening
+Gucci Fresh 31,Dolce & Gabbana,266.2,"fruity, leather, citrus",basic,10 hours,light,male,evening
+Tom Ford Aquatic 14,Chanel,215.76,"fruity, fresh",luxury,12+ hours,moderate,male,formal
+Gucci Aquatic 46,Montblanc,183.82,spicy,high-end,10 hours,strong,unisex,special
+Bvlgari Fresh 38,Cartier,196.78,"spicy, leather",high-end,6 hours,moderate,female,special
+Yves Saint Laurent Aquatic 26,Chanel,173.44,citrus,high-end,12+ hours,light,female,formal
+Burberry Fresh 49,Chanel,189.87,"amber, citrus, aquatic",niche,8 hours,strong,male,daytime
+Yves Saint Laurent Leather 23,Gucci,290.09,"oriental, woody, fresh",high-end,6 hours,strong,male,formal
+Chanel Gourmand 17,Givenchy,222.1,"floral, leather",niche,10 hours,moderate,male,special
+Montblanc Oriental 5,Givenchy,266.95,"spicy, amber",niche,10 hours,strong,male,daytime
+Givenchy Citrus 50,Prada,136.51,fresh,high-end,10 hours,light,female,special
+Versace Aquatic 48,Calvin Klein,210.6,fruity,high-end,8 hours,light,male,daytime
+Dior Spicy 7,Bvlgari,228.54,"spicy, citrus",niche,10 hours,moderate,female,special
+Montblanc Citrus 6,Creed,53.29,"fruity, amber",high-end,10 hours,strong,female,formal
+Yves Saint Laurent Oriental 47,Creed,209.29,woody,high-end,8 hours,strong,male,special
+Gucci Citrus 44,Calvin Klein,127.9,floral,high-end,10 hours,moderate,unisex,formal
+Montblanc Oriental 12,Dior,111.81,"fruity, oriental",high-end,6 hours,moderate,male,daytime
+Jo Malone Aquatic 44,Prada,165.44,"floral, aquatic",niche,10 hours,strong,unisex,evening
+Dior Spicy 12,Gucci,174.21,"woody, spicy",niche,6 hours,light,male,formal
+Armani Gourmand 40,Montblanc,113.75,"spicy, aquatic, woody",basic,10 hours,strong,unisex,casual
+Gucci Gourmand 6,Tom Ford,286.45,"citrus, fresh",niche,6 hours,light,female,casual
+Dolce & Gabbana Fruity 10,Montblanc,197.51,"aquatic, oriental",luxury,8 hours,strong,unisex,casual
+Hugo Boss Fresh 32,Givenchy,55.93,"floral, gourmand, fruity",luxury,12+ hours,strong,unisex,formal
+Versace Spicy 31,Burberry,289.61,"floral, fresh, fruity",luxury,10 hours,light,unisex,casual
+Creed Aquatic 12,Burberry,250.05,fruity,basic,8 hours,moderate,female,daytime
+Lancôme Spicy 15,Bvlgari,273.17,"leather, oriental, fresh",basic,8 hours,strong,male,casual
+Montblanc Oriental 1,Versace,127.19,leather,high-end,6 hours,moderate,male,formal
+Bvlgari Oriental 2,Versace,204.63,spicy,high-end,10 hours,strong,unisex,special
+Jo Malone Gourmand 27,Jo Malone,118.54,woody,high-end,12+ hours,light,female,evening
+Cartier Spicy 50,Lancôme,172.63,"fresh, floral, woody",basic,8 hours,moderate,female,special
+Hugo Boss Amber 33,Cartier,185.29,woody,luxury,8 hours,strong,unisex,formal
+Tom Ford Amber 10,Prada,130.62,"fresh, fruity, leather",basic,8 hours,moderate,female,special
+Lancôme Fresh 23,Yves Saint Laurent,179.23,"spicy, gourmand",high-end,4 hours,light,unisex,formal
+Tom Ford Leather 9,Jo Malone,177.54,"fruity, oriental",luxury,6 hours,strong,male,evening
+Armani Fresh 49,Givenchy,213.83,"leather, aquatic",luxury,4 hours,light,unisex,formal
+Jo Malone Amber 42,Armani,162.15,"oriental, spicy",high-end,10 hours,light,unisex,formal
+Cartier Citrus 44,Yves Saint Laurent,167.27,fruity,basic,8 hours,moderate,female,daytime
+Burberry Floral 3,Versace,110.15,"leather, oriental, aquatic",high-end,8 hours,light,male,evening
+Calvin Klein Woody 50,Yves Saint Laurent,205.16,"oriental, aquatic",high-end,12+ hours,light,male,formal
+Calvin Klein Fruity 49,Dior,169.78,aquatic,niche,8 hours,strong,unisex,casual
+Versace Woody 18,Versace,199.7,"fresh, gourmand, fruity",basic,4 hours,light,unisex,casual
+Bvlgari Gourmand 40,Dolce & Gabbana,283.72,"leather, gourmand, oriental",high-end,4 hours,moderate,male,special
+Armani Aquatic 10,Calvin Klein,126.89,citrus,luxury,6 hours,moderate,male,casual
+Calvin Klein Aquatic 10,Hermes,50.23,fresh,luxury,10 hours,light,male,evening
+Bvlgari Floral 33,Armani,69.61,"spicy, floral, fruity",luxury,12+ hours,strong,female,evening
+Hermes Gourmand 22,Cartier,113.08,"aquatic, gourmand, floral",high-end,8 hours,light,male,daytime
+Prada Fruity 26,Hugo Boss,268.75,"gourmand, aquatic, floral",high-end,10 hours,light,unisex,casual
+Yves Saint Laurent Fresh 15,Burberry,217.74,"leather, gourmand, oriental",basic,8 hours,moderate,female,special
+Prada Leather 45,Burberry,282.64,"gourmand, spicy",high-end,6 hours,strong,male,evening
+Montblanc Aquatic 10,Calvin Klein,168.48,gourmand,basic,4 hours,moderate,male,special
+Creed Spicy 38,Jo Malone,107.14,amber,luxury,8 hours,moderate,unisex,daytime
+Hermes Leather 39,Versace,237.51,fruity,high-end,12+ hours,strong,unisex,daytime
+Gucci Spicy 15,Yves Saint Laurent,76.43,fresh,basic,4 hours,strong,unisex,special
+Hermes Woody 35,Montblanc,108.41,"spicy, oriental",niche,6 hours,light,female,daytime
+Hugo Boss Fresh 15,Gucci,125.17,"woody, citrus",luxury,10 hours,light,male,casual
+Hugo Boss Aquatic 37,Hermes,182.1,"fresh, woody",basic,12+ hours,light,female,evening
+Hermes Citrus 12,Dolce & Gabbana,81.78,"woody, gourmand",niche,4 hours,moderate,unisex,evening
+Burberry Floral 27,Dior,198.8,"spicy, citrus",luxury,6 hours,strong,male,evening
+Tom Ford Floral 22,Bvlgari,99.38,woody,niche,8 hours,moderate,male,casual
+Jo Malone Leather 4,Creed,195.13,citrus,luxury,4 hours,moderate,unisex,casual
+Bvlgari Spicy 29,Bvlgari,59.41,"amber, oriental",luxury,12+ hours,moderate,male,special
+Cartier Amber 6,Tom Ford,152.62,"floral, oriental",luxury,12+ hours,strong,female,special
+Lancôme Woody 19,Dolce & Gabbana,67.7,"fresh, aquatic, floral",niche,4 hours,moderate,unisex,formal
+Calvin Klein Citrus 40,Cartier,153.28,"aquatic, fruity, floral",high-end,12+ hours,light,unisex,daytime
+Hugo Boss Amber 17,Dior,200.06,oriental,high-end,10 hours,strong,female,daytime
+Burberry Gourmand 6,Givenchy,107.73,spicy,high-end,12+ hours,moderate,unisex,formal
+Dolce & Gabbana Fruity 25,Armani,149.24,"fruity, amber, woody",niche,6 hours,light,male,casual
+Gucci Fresh 27,Prada,281.94,"spicy, oriental, woody",niche,10 hours,light,unisex,special
+Cartier Oriental 7,Burberry,53.26,amber,luxury,4 hours,moderate,female,evening
+Prada Fresh 46,Calvin Klein,233.47,"floral, spicy",high-end,12+ hours,light,unisex,casual
+Versace Leather 35,Tom Ford,230.77,"amber, gourmand, oriental",high-end,6 hours,moderate,unisex,daytime
+Prada Gourmand 34,Montblanc,108.74,oriental,high-end,4 hours,strong,male,special
+Cartier Amber 15,Lancôme,206.82,"fresh, floral, oriental",luxury,10 hours,strong,unisex,special
+Armani Floral 7,Bvlgari,223.2,"fresh, aquatic, citrus",basic,10 hours,light,male,evening
+Chanel Aquatic 33,Bvlgari,50.73,"spicy, fruity, oriental",high-end,12+ hours,moderate,unisex,evening
+Versace Spicy 22,Dolce & Gabbana,224.28,"floral, fruity, spicy",basic,12+ hours,light,male,special
+Tom Ford Floral 49,Prada,134.19,"floral, fruity, leather",high-end,8 hours,light,female,daytime
+Hugo Boss Gourmand 26,Givenchy,56.01,"fruity, amber, fresh",luxury,8 hours,moderate,female,formal
+Chanel Fruity 14,Calvin Klein,155.94,"oriental, floral",high-end,10 hours,light,unisex,casual
+Tom Ford Fresh 14,Montblanc,110.91,"amber, spicy",niche,12+ hours,moderate,female,formal
+Burberry Citrus 37,Chanel,127.81,"spicy, fresh, leather",luxury,8 hours,light,female,evening
+Jo Malone Leather 18,Calvin Klein,101.35,"aquatic, floral, citrus",niche,6 hours,light,unisex,daytime
+Dolce & Gabbana Fruity 20,Givenchy,202.59,"oriental, aquatic, floral",high-end,4 hours,light,male,special
+Hugo Boss Spicy 32,Dolce & Gabbana,244.46,woody,basic,6 hours,moderate,female,daytime
+Cartier Amber 27,Jo Malone,222.84,"oriental, aquatic, fresh",basic,12+ hours,light,female,casual
+Calvin Klein Floral 16,Gucci,173.53,fruity,basic,8 hours,moderate,unisex,daytime
+Prada Fruity 4,Dolce & Gabbana,283.34,"amber, floral",high-end,12+ hours,strong,female,evening
+Dior Floral 43,Calvin Klein,134.79,woody,luxury,12+ hours,moderate,female,evening
+Burberry Gourmand 46,Hugo Boss,50.93,"amber, oriental",basic,4 hours,moderate,male,daytime
+Armani Aquatic 42,Bvlgari,77.23,"oriental, amber, fresh",niche,4 hours,strong,unisex,special
+Yves Saint Laurent Leather 22,Yves Saint Laurent,211.48,fruity,niche,8 hours,light,male,casual
+Montblanc Aquatic 41,Hugo Boss,215.97,"gourmand, floral, oriental",niche,12+ hours,strong,male,casual
+Yves Saint Laurent Woody 36,Yves Saint Laurent,242.3,leather,luxury,8 hours,moderate,female,casual
+Yves Saint Laurent Aquatic 24,Creed,115.3,"woody, leather",niche,12+ hours,light,female,casual
+Hugo Boss Citrus 23,Givenchy,134.22,"floral, fruity",basic,4 hours,light,male,evening
+Dior Fresh 2,Jo Malone,199.6,gourmand,luxury,10 hours,strong,unisex,daytime
+Gucci Amber 3,Montblanc,198.19,aquatic,niche,10 hours,strong,unisex,casual
+Chanel Fresh 4,Hugo Boss,133.33,amber,basic,4 hours,strong,male,daytime
+Bvlgari Floral 27,Givenchy,84.22,floral,luxury,12+ hours,moderate,male,special
+Dior Spicy 39,Dolce & Gabbana,261.48,gourmand,niche,12+ hours,light,unisex,special
+Tom Ford Aquatic 5,Versace,96.89,"oriental, fruity, fresh",basic,10 hours,strong,unisex,special
+Cartier Woody 10,Hermes,248.42,"spicy, oriental, fresh",high-end,12+ hours,strong,male,evening
+Lancôme Fruity 29,Lancôme,239.72,"fruity, leather",niche,6 hours,strong,unisex,evening
+Chanel Amber 4,Dior,298.29,"fresh, leather",high-end,6 hours,strong,male,evening
+Tom Ford Woody 46,Bvlgari,195.47,"gourmand, amber",basic,6 hours,strong,female,daytime
+Calvin Klein Oriental 25,Givenchy,232.04,"fruity, floral, oriental",basic,12+ hours,light,unisex,evening
+Hermes Fresh 34,Bvlgari,131.1,"gourmand, amber, woody",luxury,8 hours,moderate,female,evening
+Bvlgari Citrus 8,Versace,96.36,leather,niche,4 hours,strong,female,daytime
+Hermes Spicy 33,Jo Malone,180.59,"amber, floral, oriental",high-end,12+ hours,light,unisex,casual
+Dior Woody 20,Bvlgari,50.47,"gourmand, citrus",luxury,12+ hours,strong,female,formal
+Tom Ford Leather 4,Prada,62.57,citrus,high-end,12+ hours,light,unisex,formal
+Montblanc Amber 16,Burberry,153.46,"oriental, floral",high-end,12+ hours,moderate,female,evening
+Creed Woody 2,Dolce & Gabbana,246.59,"citrus, woody",basic,12+ hours,moderate,female,daytime
+Jo Malone Fresh 27,Givenchy,75.26,"spicy, fresh",basic,4 hours,moderate,female,special
+Chanel Aquatic 36,Prada,90.57,"aquatic, oriental",basic,12+ hours,strong,unisex,formal
+Givenchy Gourmand 21,Gucci,81.43,floral,high-end,8 hours,light,male,special
+Bvlgari Amber 24,Calvin Klein,148.12,"spicy, citrus",high-end,4 hours,moderate,male,special
+Gucci Oriental 16,Lancôme,196.57,"citrus, spicy",high-end,8 hours,light,male,casual
+Hugo Boss Floral 40,Cartier,152.74,"woody, fresh",basic,10 hours,strong,unisex,casual
+Yves Saint Laurent Fruity 11,Givenchy,217.64,amber,niche,4 hours,light,unisex,casual
+Dior Fruity 5,Cartier,232.87,fresh,basic,4 hours,moderate,male,casual
+Givenchy Fruity 18,Givenchy,85.21,"leather, oriental, woody",luxury,6 hours,strong,male,daytime
+Armani Oriental 43,Gucci,104.69,"leather, aquatic, amber",niche,6 hours,light,female,evening
+Calvin Klein Fresh 34,Creed,151.27,"woody, gourmand",luxury,4 hours,moderate,female,evening
+Prada Floral 20,Montblanc,248.13,leather,luxury,8 hours,light,female,special
+Calvin Klein Oriental 49,Tom Ford,292.28,leather,niche,6 hours,light,male,evening
+Creed Oriental 49,Burberry,148.7,"leather, citrus, aquatic",high-end,6 hours,moderate,female,daytime
+Hermes Woody 6,Armani,282.58,aquatic,luxury,6 hours,moderate,male,special
+Bvlgari Citrus 26,Calvin Klein,50.91,"citrus, gourmand",basic,6 hours,strong,male,special
+Bvlgari Fruity 42,Prada,202.38,floral,niche,8 hours,strong,female,formal
+Gucci Fresh 41,Hermes,113.3,"spicy, floral",niche,6 hours,strong,unisex,special
+Creed Leather 39,Armani,286.96,"oriental, floral, leather",niche,8 hours,moderate,unisex,special
+Jo Malone Aquatic 15,Cartier,250.1,oriental,niche,12+ hours,light,male,special
+Hugo Boss Fruity 44,Gucci,65.33,"gourmand, spicy",high-end,4 hours,light,female,casual
+Lancôme Spicy 43,Calvin Klein,293.67,fresh,niche,8 hours,light,female,evening
+Dolce & Gabbana Woody 45,Chanel,77.59,"fresh, spicy, fruity",basic,12+ hours,strong,unisex,evening
+Dior Gourmand 46,Gucci,207.67,"floral, gourmand, citrus",niche,4 hours,light,unisex,evening
+Tom Ford Spicy 33,Gucci,152.41,floral,basic,8 hours,moderate,unisex,casual
+Armani Citrus 8,Montblanc,172.77,"floral, leather",basic,6 hours,light,female,casual
+Gucci Oriental 38,Versace,289.69,woody,luxury,8 hours,strong,female,casual
+Burberry Amber 39,Lancôme,74.72,"oriental, citrus",niche,10 hours,light,unisex,daytime
+Calvin Klein Amber 46,Montblanc,178.6,"fruity, leather, floral",niche,4 hours,light,male,special
+Prada Oriental 1,Creed,171.5,"citrus, fruity",luxury,8 hours,moderate,unisex,casual
+Bvlgari Amber 17,Cartier,253.94,"woody, spicy",high-end,6 hours,light,male,special
+Montblanc Aquatic 21,Tom Ford,263.35,fruity,high-end,10 hours,strong,unisex,daytime
+Montblanc Fruity 41,Hugo Boss,161.9,"leather, woody",high-end,4 hours,strong,female,formal
+Chanel Leather 44,Tom Ford,299.29,"fruity, spicy",basic,12+ hours,moderate,unisex,daytime
+Gucci Spicy 41,Jo Malone,297.15,"leather, gourmand, citrus",luxury,10 hours,moderate,female,special
+Creed Citrus 46,Hugo Boss,129.94,woody,niche,12+ hours,moderate,male,daytime
+Creed Floral 46,Tom Ford,224.25,fruity,niche,12+ hours,strong,unisex,casual
+Calvin Klein Amber 40,Yves Saint Laurent,298.9,"gourmand, fruity",niche,10 hours,strong,unisex,evening
+Dior Amber 29,Creed,154.47,aquatic,luxury,6 hours,strong,male,formal
+Prada Aquatic 49,Bvlgari,179.9,"spicy, citrus",high-end,8 hours,strong,male,casual
+Gucci Citrus 3,Jo Malone,95.8,"spicy, oriental",basic,8 hours,strong,male,formal
+Jo Malone Citrus 46,Bvlgari,97.94,"floral, spicy",high-end,4 hours,strong,female,formal
+Versace Fruity 38,Dolce & Gabbana,127.38,"floral, amber",niche,8 hours,strong,unisex,casual
+Jo Malone Leather 49,Creed,241.78,"gourmand, fruity",basic,6 hours,strong,female,daytime
+Jo Malone Oriental 30,Versace,117.77,aquatic,basic,6 hours,light,female,casual
+Dior Gourmand 50,Calvin Klein,56.91,floral,high-end,10 hours,light,unisex,casual
+Dolce & Gabbana Aquatic 33,Hermes,113.44,"spicy, aquatic",high-end,8 hours,light,unisex,formal
+Lancôme Fresh 23,Dolce & Gabbana,194.29,woody,basic,12+ hours,strong,male,casual
+Calvin Klein Fresh 24,Burberry,77.73,"leather, gourmand",niche,12+ hours,light,unisex,daytime
+Lancôme Floral 42,Hermes,186.38,"oriental, woody, floral",high-end,8 hours,light,unisex,formal
+Bvlgari Amber 32,Creed,201.33,"citrus, leather",high-end,8 hours,strong,unisex,formal
+Dior Citrus 7,Givenchy,159.6,floral,niche,6 hours,strong,female,casual
+Montblanc Floral 19,Armani,282.26,"gourmand, oriental",basic,10 hours,strong,male,daytime
+Creed Aquatic 20,Bvlgari,146.09,"floral, fruity",luxury,12+ hours,light,male,special
+Creed Fruity 28,Hugo Boss,215.78,"leather, amber, citrus",basic,6 hours,strong,male,daytime
+Dior Woody 6,Chanel,265.84,"woody, leather, spicy",basic,6 hours,strong,female,formal
+Prada Gourmand 23,Creed,117.72,"amber, fresh, woody",niche,10 hours,moderate,male,daytime
+Versace Oriental 40,Givenchy,235.14,"amber, woody, floral",luxury,6 hours,light,unisex,daytime
+Dior Floral 3,Montblanc,271.89,"gourmand, oriental, fresh",high-end,12+ hours,moderate,unisex,daytime
+Chanel Fresh 47,Dior,197.35,"amber, woody",niche,12+ hours,moderate,male,daytime
+Gucci Citrus 38,Lancôme,72.94,"leather, citrus, floral",niche,6 hours,strong,male,special
+Lancôme Oriental 47,Dolce & Gabbana,225.89,gourmand,basic,12+ hours,moderate,male,evening
+Hugo Boss Fresh 22,Tom Ford,63.19,woody,luxury,6 hours,strong,unisex,evening
+Versace Amber 17,Burberry,97.68,oriental,basic,8 hours,light,female,formal
+Givenchy Floral 22,Gucci,193.04,aquatic,luxury,10 hours,strong,female,evening
+Bvlgari Leather 48,Versace,96.17,amber,basic,6 hours,light,male,evening
+Tom Ford Floral 48,Cartier,291.79,woody,high-end,10 hours,light,female,casual
+Chanel Spicy 5,Bvlgari,266.04,spicy,high-end,8 hours,strong,male,special
+Versace Leather 44,Hermes,222.44,"fruity, gourmand, fresh",luxury,8 hours,light,female,evening
+Gucci Gourmand 30,Tom Ford,201.33,spicy,niche,4 hours,strong,female,evening
+Burberry Spicy 40,Dolce & Gabbana,138.98,gourmand,niche,8 hours,strong,male,formal
+Montblanc Citrus 40,Prada,128.65,floral,high-end,8 hours,strong,male,evening
+Tom Ford Fruity 4,Tom Ford,235.92,"woody, fresh, citrus",luxury,4 hours,light,male,casual
+Versace Floral 32,Hugo Boss,257.23,spicy,luxury,8 hours,light,unisex,daytime
+Prada Aquatic 26,Calvin Klein,119.64,"woody, fruity",luxury,12+ hours,light,male,casual
+Creed Oriental 37,Burberry,299.54,"fresh, woody, fruity",basic,12+ hours,light,unisex,daytime
+Versace Amber 35,Chanel,194.15,"amber, leather",basic,6 hours,strong,female,evening
+Jo Malone Floral 29,Dolce & Gabbana,80.95,"woody, spicy",luxury,4 hours,moderate,unisex,daytime
+Chanel Aquatic 20,Dolce & Gabbana,265.97,spicy,basic,10 hours,strong,male,casual
+Dior Fresh 26,Calvin Klein,63.07,"fresh, oriental, gourmand",basic,8 hours,light,unisex,daytime
+Hugo Boss Amber 10,Hugo Boss,187.94,"gourmand, leather",luxury,10 hours,light,female,special
+Burberry Leather 15,Armani,54.92,"fresh, spicy",high-end,6 hours,moderate,unisex,evening
+Dior Leather 46,Yves Saint Laurent,267.92,"woody, fruity",niche,6 hours,light,unisex,special
+Cartier Fruity 8,Dior,142.92,floral,basic,12+ hours,light,unisex,special
+Givenchy Floral 31,Montblanc,297.23,"amber, fresh",high-end,4 hours,strong,female,evening
+Hermes Amber 11,Montblanc,212.09,"fresh, aquatic",luxury,4 hours,moderate,male,special
+Versace Aquatic 21,Montblanc,81.11,"fresh, leather, amber",high-end,6 hours,light,female,evening
+Givenchy Citrus 41,Tom Ford,101.74,"fruity, fresh",niche,4 hours,moderate,female,special
+Jo Malone Spicy 43,Jo Malone,57.65,"fruity, leather, aquatic",niche,10 hours,moderate,unisex,casual
+Gucci Woody 49,Versace,137.29,"oriental, spicy",niche,8 hours,light,female,special
+Gucci Woody 37,Prada,103.99,"gourmand, leather",luxury,6 hours,strong,unisex,special
+Calvin Klein Woody 33,Hermes,115.01,"citrus, amber",niche,10 hours,strong,female,casual
+Creed Woody 13,Givenchy,254.88,spicy,niche,6 hours,moderate,female,casual
+Yves Saint Laurent Woody 34,Prada,255.32,"fresh, gourmand, aquatic",luxury,12+ hours,moderate,unisex,daytime
+Givenchy Gourmand 39,Calvin Klein,58.24,citrus,high-end,12+ hours,strong,unisex,evening
+Gucci Fresh 16,Lancôme,169.67,"oriental, fresh",high-end,12+ hours,strong,female,formal
+Chanel Fresh 30,Versace,270.88,"spicy, fruity, citrus",basic,8 hours,strong,unisex,daytime
+Hermes Spicy 50,Calvin Klein,148.78,"fruity, leather",basic,8 hours,light,unisex,daytime
+Montblanc Spicy 1,Prada,51.02,"spicy, aquatic, floral",niche,10 hours,moderate,male,evening
+Creed Fruity 8,Givenchy,234.53,fruity,niche,8 hours,light,male,special
+Bvlgari Gourmand 34,Hugo Boss,251.79,"fresh, spicy",basic,12+ hours,strong,female,daytime
+Cartier Woody 26,Dolce & Gabbana,53.59,"floral, fresh, oriental",niche,6 hours,strong,female,special
+Montblanc Aquatic 7,Hermes,161.08,"leather, floral, citrus",luxury,6 hours,strong,unisex,casual
+Lancôme Woody 37,Bvlgari,137.03,leather,basic,4 hours,strong,male,daytime
+Chanel Aquatic 16,Givenchy,257.6,"fruity, woody",niche,4 hours,light,female,casual
+Lancôme Fruity 13,Prada,68.7,floral,luxury,6 hours,light,female,casual
+Prada Aquatic 4,Jo Malone,118.54,"aquatic, fresh, floral",luxury,12+ hours,strong,unisex,daytime
+Prada Aquatic 48,Cartier,294.04,aquatic,high-end,10 hours,moderate,male,evening
+Dior Fruity 20,Montblanc,92.48,fruity,luxury,12+ hours,strong,male,special
+Creed Floral 41,Dolce & Gabbana,299.16,spicy,luxury,4 hours,strong,male,formal
+Lancôme Citrus 20,Dior,241.12,"fresh, gourmand",luxury,10 hours,moderate,unisex,formal
+Chanel Leather 26,Tom Ford,101.48,"fresh, leather, citrus",basic,10 hours,strong,unisex,evening
+Dior Fresh 29,Montblanc,242.57,"fruity, citrus, aquatic",luxury,12+ hours,moderate,unisex,special
+Creed Leather 3,Calvin Klein,148.83,"woody, aquatic",basic,6 hours,moderate,unisex,daytime
+Hugo Boss Fruity 8,Tom Ford,255.85,"leather, amber",basic,10 hours,light,male,casual
+Calvin Klein Gourmand 11,Lancôme,262.15,"floral, gourmand, spicy",niche,8 hours,light,unisex,special
+Calvin Klein Aquatic 43,Tom Ford,195.43,oriental,high-end,12+ hours,moderate,female,casual
+Hugo Boss Amber 42,Gucci,253.49,"spicy, oriental",high-end,6 hours,moderate,male,daytime
+Gucci Citrus 43,Tom Ford,273.93,"leather, woody, oriental",basic,4 hours,strong,unisex,daytime
+Yves Saint Laurent Gourmand 38,Montblanc,247.32,woody,niche,10 hours,moderate,female,special

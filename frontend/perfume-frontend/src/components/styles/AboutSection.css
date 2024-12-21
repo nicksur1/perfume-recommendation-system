@@ -1,0 +1,30 @@
+/* About Section */
+.about-section {
+    background-color: #f9f9f9; /* Light background */
+    color: #333;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  .about-section h2 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #444;
+  }
+  
+  .about-section p {
+    font-size: 18px;
+    line-height: 1.6;
+    max-width: 800px;
+    margin: 0 auto;
+    color: #555;
+  }
+  
+  .about-section img {
+    margin-top: 20px;
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  

@@ -17,52 +17,31 @@ router.get("/", async (req, res) => {
       occasion,
     } = req.query;
 
-    // Build the SQL query dynamically based on provided filters
+    // Initialize query and values
     let query = "SELECT * FROM perfumes WHERE 1=1";
-    let values = [];
+    const values = [];
 
-    if (minPrice) {
-      query += " AND price >= $1";
-      values.push(minPrice);
-    }
+    // Helper function to add conditions dynamically
+    const addCondition = (column, operator, value) => {
+      query += ` AND ${column} ${operator} $${values.length + 1}`;
+      values.push(value);
+    };
 
-    if (maxPrice) {
-      query += ` AND price <= $${values.length + 1}`;
-      values.push(maxPrice);
-    }
-
-    if (notes) {
-      query += ` AND notes ILIKE $${values.length + 1}`;
-      values.push(`%${notes}%`);
-    }
-
-    if (scentProfile) {
-      query += ` AND scent_profile ILIKE $${values.length + 1}`;
-      values.push(`%${scentProfile}%`);
-    }
-
-    if (longevity) {
-      query += ` AND longevity ILIKE $${values.length + 1}`;
-      values.push(`%${longevity}%`);
-    }
-
-    if (sillage) {
-      query += ` AND sillage ILIKE $${values.length + 1}`;
-      values.push(`%${sillage}%`);
-    }
-
-    if (genderPreference) {
-      query += ` AND gender_preference ILIKE $${values.length + 1}`;
-      values.push(`%${genderPreference}%`);
-    }
-
-    if (occasion) {
-      query += ` AND occasion ILIKE $${values.length + 1}`;
-      values.push(`%${occasion}%`);
-    }
+    // Add conditions based on provided filters
+    if (minPrice) addCondition("price", ">=", minPrice);
+    if (maxPrice) addCondition("price", "<=", maxPrice);
+    if (notes) addCondition("notes", "ILIKE", `%${notes}%`);
+    if (scentProfile) addCondition("scent_profile", "ILIKE", `%${scentProfile}%`);
+    if (longevity) addCondition("longevity", "ILIKE", `%${longevity}%`);
+    if (sillage) addCondition("sillage", "ILIKE", `%${sillage}%`);
+    if (genderPreference) addCondition("gender_preference", "ILIKE", `%${genderPreference}%`);
+    if (occasion) addCondition("occasion", "ILIKE", `%${occasion}%`);
 
     // Execute the query
+    console.log("Generated Query:", query, "Values:", values); // For debugging
     const result = await pool.query(query, values);
+
+    // Send the response
     res.json(result.rows);
   } catch (error) {
     console.error("Error fetching recommendations:", error.message);
