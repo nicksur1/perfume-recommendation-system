@@ -7,13 +7,17 @@ console.log({
     password: process.env.PGPASSWORD || "uhaveebola321",
     host: process.env.PGHOST || "localhost",
     port: process.env.PGPORT || 5432,
-    database: process.env.PGDATABASE || "perfume_recommender",
+    database: process.env.PGDATABASE || "perfumedb",
     connectionString: process.env.DATABASE_URL,
+    ssl: false,
 });
 
 const pool = new Pool({
     connectionString: process.env.DATABASE_URL,
-});
+    ssl: false, // Disable SSL for local development
+  });
+
+
 (async () => {
     try {
       const client = await pool.connect();
